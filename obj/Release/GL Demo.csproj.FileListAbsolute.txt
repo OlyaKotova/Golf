@@ -1,0 +1,67 @@
+C:\Users\Кирилл\Desktop\2 курс\Компьютерная Графика+\3-GL Demo\Practice_OpenGL\Demo Suite\GL-TextureDemo\obj\Release\GL Demo.exe
+C:\Users\Кирилл\Desktop\2 курс\Компьютерная Графика+\3-GL Demo\Practice_OpenGL\Demo Suite\GL-TextureDemo\obj\Release\GL Demo.pdb
+C:\Users\Кирилл\Desktop\2 курс\Компьютерная Графика+\3-GL Demo\Practice_OpenGL\Demo Suite\GL-TextureDemo\bin\Release\GL Demo.exe
+C:\Users\Кирилл\Desktop\2 курс\Компьютерная Графика+\3-GL Demo\Practice_OpenGL\Demo Suite\GL-TextureDemo\bin\Release\GL Demo.pdb
+C:\Users\Кирилл\Desktop\2 курс\Компьютерная Графика+\3-GL Demo\Practice_OpenGL\Demo Suite\GL-TextureDemo\bin\Release\Auxiliary.Graphics.dll
+C:\Users\Кирилл\Desktop\2 курс\Компьютерная Графика+\3-GL Demo\Practice_OpenGL\Demo Suite\GL-TextureDemo\bin\Release\Auxiliary.Math.dll
+C:\Users\Кирилл\Desktop\2 курс\Компьютерная Графика+\3-GL Demo\Practice_OpenGL\Demo Suite\GL-TextureDemo\bin\Release\Tao.OpenGl.dll
+C:\Users\Кирилл\Desktop\2 курс\Компьютерная Графика+\3-GL Demo\Practice_OpenGL\Demo Suite\GL-TextureDemo\bin\Release\Tao.Platform.Windows.dll
+C:\Users\Кирилл\Desktop\2 курс\Компьютерная Графика+\3-GL Demo\Practice_OpenGL\Demo Suite\GL-TextureDemo\bin\Release\Tao.OpenGl.xml
+C:\Users\Кирилл\Desktop\2 курс\Компьютерная Графика+\3-GL Demo\Practice_OpenGL\Demo Suite\GL-TextureDemo\bin\Release\Tao.Platform.Windows.xml
+C:\Users\Кирилл\Desktop\2 курс\Компьютерная Графика+\3-GL Demo\Practice_OpenGL\Demo Suite\GL-TextureDemo\obj\Release\GL Demo.csprojResolveAssemblyReference.cache
+C:\Users\Кирилл\Desktop\2 курс\Компьютерная Графика+\3-GL Demo\Practice_OpenGL\Demo Suite\GL-TextureDemo\obj\Release\SceneEditor.MainForm.resources
+C:\Users\Кирилл\Desktop\2 курс\Компьютерная Графика+\3-GL Demo\Practice_OpenGL\Demo Suite\GL-TextureDemo\obj\Release\GL Demo.csproj.GenerateResource.Cache
+C:\Documents and Settings\Игорь\Рабочий стол\Demo Suite\GL-TextureDemo\obj\Release\GL Demo.exe
+C:\Documents and Settings\Игорь\Рабочий стол\Demo Suite\GL-TextureDemo\obj\Release\GL Demo.pdb
+C:\Users\Андрей\Downloads\Demo_Suite\Demo Suite\GL-TextureDemo\obj\Release\GL Demo.exe
+C:\Users\Андрей\Downloads\Demo_Suite\Demo Suite\GL-TextureDemo\obj\Release\GL Demo.pdb
+C:\Users\Андрей\Downloads\Demo_Suite\Demo Suite\GL-TextureDemo\obj\Release\SceneEditor.MainForm.resources
+C:\Users\Андрей\Downloads\Demo_Suite\Demo Suite\GL-TextureDemo\obj\Release\GL Demo.csproj.GenerateResource.Cache
+C:\Users\Андрей\Downloads\Demo_Suite\Demo Suite\GL-TextureDemo\bin\Release\GL Demo.exe
+C:\Users\Андрей\Downloads\Demo_Suite\Demo Suite\GL-TextureDemo\bin\Release\GL Demo.pdb
+C:\Users\Андрей\Downloads\Demo_Suite\Demo Suite\GL-TextureDemo\bin\Release\Auxiliary.Graphics.dll
+C:\Users\Андрей\Downloads\Demo_Suite\Demo Suite\GL-TextureDemo\bin\Release\Auxiliary.Math.dll
+C:\Users\Андрей\Downloads\Demo_Suite\Demo Suite\GL-TextureDemo\bin\Release\Auxiliary.Primitive.dll
+C:\Users\Андрей\Downloads\Demo_Suite\Demo Suite\GL-TextureDemo\bin\Release\Auxiliary.Raytracing.dll
+C:\Users\Андрей\Downloads\Demo_Suite\Demo Suite\GL-TextureDemo\bin\Release\Auxiliary.Graphics.pdb
+C:\Users\Андрей\Downloads\Demo_Suite\Demo Suite\GL-TextureDemo\bin\Release\Auxiliary.Math.pdb
+C:\Users\Андрей\Downloads\Demo_Suite\Demo Suite\GL-TextureDemo\bin\Release\Auxiliary.Primitive.pdb
+C:\Users\Андрей\Downloads\Demo_Suite\Demo Suite\GL-TextureDemo\bin\Release\Auxiliary.Raytracing.pdb
+C:\Users\Андрей\Downloads\Demo_Suite\Demo Suite\GL-TextureDemo\obj\Release\GL Demo.csprojResolveAssemblyReference.cache
+G:\GL-TextureDemo\obj\Release\GL Demo.exe
+G:\GL-TextureDemo\obj\Release\GL Demo.pdb
+G:\GL-TextureDemo\bin\Release\GL Demo.exe
+G:\GL-TextureDemo\bin\Release\GL Demo.pdb
+G:\GL-TextureDemo\bin\Release\Auxiliary.Graphics.dll
+G:\GL-TextureDemo\bin\Release\Auxiliary.Math.dll
+G:\GL-TextureDemo\bin\Release\Auxiliary.Primitive.dll
+G:\GL-TextureDemo\bin\Release\Auxiliary.Raytracing.dll
+G:\GL-TextureDemo\bin\Release\Auxiliary.Graphics.pdb
+G:\GL-TextureDemo\bin\Release\Auxiliary.Math.pdb
+G:\GL-TextureDemo\bin\Release\Auxiliary.Primitive.pdb
+G:\GL-TextureDemo\bin\Release\Auxiliary.Raytracing.pdb
+G:\GL-TextureDemo\obj\Release\GL Demo.csprojResolveAssemblyReference.cache
+G:\GL-TextureDemo\obj\Release\SceneEditor.MainForm.resources
+G:\GL-TextureDemo\obj\Release\GL Demo.csproj.GenerateResource.Cache
+C:\Users\Даня\Desktop\GL-TextureDemo\obj\Release\GL Demo.pdb
+C:\Users\Даня\Desktop\GL-TextureDemo\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Даня\Desktop\GL-TextureDemo\obj\Release\SceneEditor.MainForm.resources
+C:\Users\Даня\Desktop\GL-TextureDemo\bin\Release\GL Demo.pdb
+C:\Users\Даня\Desktop\GL-TextureDemo\bin\Release\Auxiliary.Graphics.pdb
+C:\Users\Даня\Desktop\GL-TextureDemo\bin\Release\Auxiliary.Math.pdb
+C:\Users\Даня\Desktop\GL-TextureDemo\bin\Release\Auxiliary.Primitive.pdb
+C:\Users\Даня\Desktop\GL-TextureDemo\bin\Release\Auxiliary.Raytracing.pdb
+C:\Users\Даня\Desktop\GL-TextureDemo\bin\Release\Tao.OpenGl.xml
+C:\Users\Даня\Desktop\GL-TextureDemo\bin\Release\Tao.Platform.Windows.xml
+C:\Users\Даня\Desktop\GL-TextureDemo\obj\Release\GenerateResource.read.1.tlog
+C:\Users\Даня\Desktop\GL-TextureDemo\obj\Release\GenerateResource.write.1.tlog
+C:\Users\Даня\Desktop\GL-TextureDemo\obj\Release\GL_Demo.Properties.Resources.resources
+C:\Users\Даня\Desktop\GL-TextureDemo\bin\Release\GL Demo.exe.config
+C:\Users\Даня\Desktop\GL-TextureDemo\bin\Release\GL Demo.exe
+C:\Users\Даня\Desktop\GL-TextureDemo\obj\Release\GL Demo.exe
+C:\Users\Даня\Desktop\GL-TextureDemo\bin\Release\Auxiliary.Graphics.dll
+C:\Users\Даня\Desktop\GL-TextureDemo\bin\Release\Auxiliary.Math.dll
+C:\Users\Даня\Desktop\GL-TextureDemo\bin\Release\Auxiliary.Primitive.dll
+C:\Users\Даня\Desktop\GL-TextureDemo\bin\Release\Auxiliary.Raytracing.dll
+C:\Users\Даня\Desktop\GL-TextureDemo\bin\Release\Tao.OpenGl.dll
+C:\Users\Даня\Desktop\GL-TextureDemo\bin\Release\Tao.Platform.Windows.dll

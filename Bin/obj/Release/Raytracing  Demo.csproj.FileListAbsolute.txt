@@ -1,0 +1,46 @@
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\Release\RTRT Demo.exe
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\Release\RTRT Demo.pdb
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\Release\Auxiliary.Graphics.dll
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\Release\Auxiliary.Math.dll
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\Release\Auxiliary.Raytracing.dll
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\Release\Tao.OpenGl.dll
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\Release\Tao.Platform.Windows.dll
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\Release\Tao.Platform.Windows.xml
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\Release\Tao.OpenGl.xml
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\Release\Auxiliary.Raytracing.pdb
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\obj\Release\ResolveAssemblyReference.cache
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\obj\Release\SceneEditor.MainForm.resources
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\obj\Release\SceneEditor.AboutDialog.resources
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\obj\Release\SceneEditor.BoxDialog.resources
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\obj\Release\SceneEditor.SphereDialog.resources
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\obj\Release\SceneEditor.SquareDialog.resources
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\obj\Release\SceneEditor.RenderDialog.resources
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\obj\Release\SceneEditor.TransformDialog.resources
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\obj\Release\SceneEditor.LightDialog.resources
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\obj\Release\SceneEditor.MaterialDialog.resources
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\obj\Release\Raytracing  Demo.csproj.GenerateResource.Cache
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\obj\Release\RTRT Demo.exe
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\obj\Release\RTRT Demo.pdb
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\Release\RTRT Demo.exe
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\Release\RTRT Demo.pdb
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\Release\Auxiliary.Graphics.dll
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\Release\Auxiliary.Math.dll
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\Release\Auxiliary.Raytracing.dll
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\Release\Tao.OpenGl.dll
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\Release\Tao.Platform.Windows.dll
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\Release\Tao.Platform.Windows.xml
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\Release\Tao.OpenGl.xml
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\Release\Auxiliary.Raytracing.pdb
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\obj\Release\SceneEditor.MainForm.resources
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\obj\Release\SceneEditor.AboutDialog.resources
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\obj\Release\SceneEditor.BoxDialog.resources
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\obj\Release\SceneEditor.SphereDialog.resources
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\obj\Release\SceneEditor.SquareDialog.resources
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\obj\Release\SceneEditor.RenderDialog.resources
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\obj\Release\SceneEditor.TransformDialog.resources
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\obj\Release\SceneEditor.LightDialog.resources
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\obj\Release\SceneEditor.MaterialDialog.resources
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\obj\Release\Raytracing  Demo.csproj.GenerateResource.Cache
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\obj\Release\RTRT Demo.exe
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\obj\Release\RTRT Demo.pdb

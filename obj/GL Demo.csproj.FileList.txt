@@ -1,0 +1,15 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\SceneEditor.MainForm.resources
+obj\Debug\GL Demo.csproj.GenerateResource.Cache
+.\bin\Debug\GL Demo.exe
+.\bin\Debug\GL Demo.pdb
+.\bin\Debug\Auxiliary.Graphics.dll
+.\bin\Debug\Auxiliary.Math.dll
+.\bin\Debug\Tao.OpenGl.dll
+.\bin\Debug\Tao.Platform.Windows.dll
+.\bin\Debug\Auxiliary.Graphics.pdb
+.\bin\Debug\Tao.Platform.Windows.xml
+.\bin\Debug\Tao.OpenGl.xml
+.\bin\Debug\Auxiliary.Math.pdb
+obj\Debug\GL Demo.exe
+obj\Debug\GL Demo.pdb

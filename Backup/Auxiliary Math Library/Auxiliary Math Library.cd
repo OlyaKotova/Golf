@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<ClassDiagram Zoom="1" MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Auxiliary.Raytracing.Transform" Collapsed="False">
+    <Position X="0.5" Y="5.3" Width="2.040846" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="Auxiliary.MathTools.Matrix2D" Collapsed="False">
+    <Position X="0.5" Y="9.7" Width="1.567438" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="Auxiliary.MathTools.Matrix3D" Collapsed="False">
+    <Position X="0.5" Y="14.3" Width="1.926872" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="Auxiliary.MathTools.Matrix4D" Collapsed="False">
+    <Position X="0.5" Y="19.6" Width="1.567438" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="Auxiliary.MathTools.BaseFunction" Collapsed="False">
+    <Position X="0.5" Y="0.5" Width="1.455612" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="Auxiliary.MathTools.MulFunction" Collapsed="False">
+    <Position X="7.2" Y="3.1" Width="1.815153" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="Auxiliary.MathTools.DivFunction" Collapsed="False">
+    <Position X="9.4" Y="3.1" Width="1.77734" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="Auxiliary.MathTools.NegativeFunction" Collapsed="False">
+    <Position X="11.6" Y="3.1" Width="2.344313" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="Auxiliary.MathTools.ReverseFunction" Collapsed="False">
+    <Position X="14.4" Y="3.1" Width="2.292428" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="Auxiliary.MathTools.SinFunction" Collapsed="False">
+    <Position X="17.1" Y="3.1" Width="1.777555" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="Auxiliary.MathTools.CosFunction" Collapsed="False">
+    <Position X="19.2" Y="3.1" Width="1.851676" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="Auxiliary.MathTools.ExpFunction" Collapsed="False">
+    <Position X="21.5" Y="3.1" Width="1.839215" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="Auxiliary.MathTools.LogFunction" Collapsed="False">
+    <Position X="23.7" Y="3.1" Width="1.826754" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="Auxiliary.MathTools.SqrtFunction" Collapsed="False">
+    <Position X="26" Y="3.1" Width="1.864245" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="Auxiliary.MathTools.AbsFunction" Collapsed="False">
+    <Position X="28.2" Y="3.1" Width="1.839215" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="Auxiliary.MathTools.ConstFunction" Collapsed="False">
+    <Position X="30.5" Y="3.1" Width="2.040631" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="Auxiliary.MathTools.EqualFunction" Collapsed="False">
+    <Position X="32.9" Y="3.1" Width="2.029567" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="Auxiliary.MathTools.Parser" Collapsed="False">
+    <Position X="0.5" Y="24.2" Width="1.864298" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="Auxiliary.MathTools.Util" Collapsed="False">
+    <Position X="0.5" Y="26.7" Width="1.416564" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="Auxiliary.MathTools.Vector2D" Collapsed="False">
+    <Position X="0.5" Y="29.2" Width="1.674001" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="Auxiliary.MathTools.Vector3D" Collapsed="False">
+    <Position X="0.5" Y="40.6" Width="1.674001" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="Auxiliary.MathTools.Vector4D" Collapsed="False">
+    <Position X="0.5" Y="53.4" Width="1.674001" />
+    <Compartments>
+      <Compartment Name="Properties" Collapsed="False" />
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="Auxiliary.MathTools.RootFunction" Collapsed="True">
+    <Position X="0.5" Y="3.1" Width="1.9" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="Auxiliary.MathTools.AddFunction" Collapsed="True">
+    <Position X="2.7" Y="3.1" Width="1.9" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+  <Class Name="Auxiliary.MathTools.SubFunction" Collapsed="True">
+    <Position X="5" Y="3.1" Width="1.9" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="False" />
+      <Compartment Name="Fields" Collapsed="False" />
+    </Compartments>
+  </Class>
+</ClassDiagram>

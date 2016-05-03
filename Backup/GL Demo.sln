@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GL Demo", "GL Demo.csproj", "{39AA30E5-1FCD-4330-A2C2-CF791CAD6274}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auxiliary Math Library", "..\..\Auxiliary Libraries\Auxiliary Math Library\Auxiliary Math Library.csproj", "{32BE5E1A-A16A-4AA5-ACA6-448A3C38C705}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Auxiliary Graphics Library", "..\..\Auxiliary Libraries\Auxiliary Graphics Library\Auxiliary Graphics Library.csproj", "{6B20AB31-0C91-4B2F-9F13-A8706AF3DF94}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39AA30E5-1FCD-4330-A2C2-CF791CAD6274}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39AA30E5-1FCD-4330-A2C2-CF791CAD6274}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39AA30E5-1FCD-4330-A2C2-CF791CAD6274}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39AA30E5-1FCD-4330-A2C2-CF791CAD6274}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32BE5E1A-A16A-4AA5-ACA6-448A3C38C705}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32BE5E1A-A16A-4AA5-ACA6-448A3C38C705}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32BE5E1A-A16A-4AA5-ACA6-448A3C38C705}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32BE5E1A-A16A-4AA5-ACA6-448A3C38C705}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B20AB31-0C91-4B2F-9F13-A8706AF3DF94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B20AB31-0C91-4B2F-9F13-A8706AF3DF94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B20AB31-0C91-4B2F-9F13-A8706AF3DF94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B20AB31-0C91-4B2F-9F13-A8706AF3DF94}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

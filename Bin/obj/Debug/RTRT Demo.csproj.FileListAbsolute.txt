@@ -1,0 +1,163 @@
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\05-21-2008\source\Demo Suite\RTRT Demo\Bin\Debug\RTRT Demo.exe
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\05-21-2008\source\Demo Suite\RTRT Demo\Bin\Debug\RTRT Demo.pdb
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\05-21-2008\source\Demo Suite\RTRT Demo\Bin\Debug\Auxiliary.Graphics.dll
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\05-21-2008\source\Demo Suite\RTRT Demo\Bin\Debug\Auxiliary.Math.dll
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\05-21-2008\source\Demo Suite\RTRT Demo\Bin\Debug\Auxiliary.Primitive.dll
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\05-21-2008\source\Demo Suite\RTRT Demo\Bin\Debug\Auxiliary.Raytracing.dll
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\05-21-2008\source\Demo Suite\RTRT Demo\Bin\Debug\Tao.OpenGl.dll
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\05-21-2008\source\Demo Suite\RTRT Demo\Bin\Debug\Tao.Platform.Windows.dll
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\05-21-2008\source\Demo Suite\RTRT Demo\Bin\Debug\Tao.Platform.Windows.xml
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\05-21-2008\source\Demo Suite\RTRT Demo\Bin\Debug\Auxiliary.Graphics.pdb
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\05-21-2008\source\Demo Suite\RTRT Demo\Bin\Debug\Tao.OpenGl.xml
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\05-21-2008\source\Demo Suite\RTRT Demo\Bin\Debug\Auxiliary.Math.pdb
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\05-21-2008\source\Demo Suite\RTRT Demo\Bin\Debug\Auxiliary.Raytracing.pdb
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\05-21-2008\source\Demo Suite\RTRT Demo\Bin\Debug\Auxiliary.Primitive.pdb
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\05-21-2008\source\Demo Suite\RTRT Demo\Bin\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\05-21-2008\source\Demo Suite\RTRT Demo\Bin\obj\Debug\SceneEditor.MainForm.resources
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\05-21-2008\source\Demo Suite\RTRT Demo\Bin\obj\Debug\SceneEditor.AboutDialog.resources
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\05-21-2008\source\Demo Suite\RTRT Demo\Bin\obj\Debug\SceneEditor.BoxDialog.resources
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\05-21-2008\source\Demo Suite\RTRT Demo\Bin\obj\Debug\SceneEditor.SphereDialog.resources
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\05-21-2008\source\Demo Suite\RTRT Demo\Bin\obj\Debug\SceneEditor.SquareDialog.resources
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\05-21-2008\source\Demo Suite\RTRT Demo\Bin\obj\Debug\SceneEditor.SurfaceDialog.resources
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\05-21-2008\source\Demo Suite\RTRT Demo\Bin\obj\Debug\SceneEditor.RenderDialog.resources
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\05-21-2008\source\Demo Suite\RTRT Demo\Bin\obj\Debug\SceneEditor.TransformDialog.resources
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\05-21-2008\source\Demo Suite\RTRT Demo\Bin\obj\Debug\SceneEditor.LightDialog.resources
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\05-21-2008\source\Demo Suite\RTRT Demo\Bin\obj\Debug\SceneEditor.MaterialDialog.resources
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\05-21-2008\source\Demo Suite\RTRT Demo\Bin\obj\Debug\RTRT Demo.csproj.GenerateResource.Cache
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\05-21-2008\source\Demo Suite\RTRT Demo\Bin\obj\Debug\RTRT Demo.exe
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\05-21-2008\source\Demo Suite\RTRT Demo\Bin\obj\Debug\RTRT Demo.pdb
+C:\Documents and Settings\trushanin.v\Desktop\05-21-2008\source\Demo Suite\RTRT Demo\Bin\Debug\RTRT Demo.exe
+C:\Documents and Settings\trushanin.v\Desktop\05-21-2008\source\Demo Suite\RTRT Demo\Bin\Debug\RTRT Demo.pdb
+C:\Documents and Settings\trushanin.v\Desktop\05-21-2008\source\Demo Suite\RTRT Demo\Bin\Debug\Auxiliary.Graphics.dll
+C:\Documents and Settings\trushanin.v\Desktop\05-21-2008\source\Demo Suite\RTRT Demo\Bin\Debug\Auxiliary.Math.dll
+C:\Documents and Settings\trushanin.v\Desktop\05-21-2008\source\Demo Suite\RTRT Demo\Bin\Debug\Auxiliary.Primitive.dll
+C:\Documents and Settings\trushanin.v\Desktop\05-21-2008\source\Demo Suite\RTRT Demo\Bin\Debug\Auxiliary.Raytracing.dll
+C:\Documents and Settings\trushanin.v\Desktop\05-21-2008\source\Demo Suite\RTRT Demo\Bin\Debug\Tao.OpenGl.dll
+C:\Documents and Settings\trushanin.v\Desktop\05-21-2008\source\Demo Suite\RTRT Demo\Bin\Debug\Tao.Platform.Windows.dll
+C:\Documents and Settings\trushanin.v\Desktop\05-21-2008\source\Demo Suite\RTRT Demo\Bin\Debug\Tao.Platform.Windows.xml
+C:\Documents and Settings\trushanin.v\Desktop\05-21-2008\source\Demo Suite\RTRT Demo\Bin\Debug\Auxiliary.Graphics.pdb
+C:\Documents and Settings\trushanin.v\Desktop\05-21-2008\source\Demo Suite\RTRT Demo\Bin\Debug\Tao.OpenGl.xml
+C:\Documents and Settings\trushanin.v\Desktop\05-21-2008\source\Demo Suite\RTRT Demo\Bin\Debug\Auxiliary.Math.pdb
+C:\Documents and Settings\trushanin.v\Desktop\05-21-2008\source\Demo Suite\RTRT Demo\Bin\Debug\Auxiliary.Raytracing.pdb
+C:\Documents and Settings\trushanin.v\Desktop\05-21-2008\source\Demo Suite\RTRT Demo\Bin\Debug\Auxiliary.Primitive.pdb
+C:\Documents and Settings\trushanin.v\Desktop\05-21-2008\source\Demo Suite\RTRT Demo\Bin\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\trushanin.v\Desktop\05-21-2008\source\Demo Suite\RTRT Demo\Bin\obj\Debug\SceneEditor.MainForm.resources
+C:\Documents and Settings\trushanin.v\Desktop\05-21-2008\source\Demo Suite\RTRT Demo\Bin\obj\Debug\SceneEditor.AboutDialog.resources
+C:\Documents and Settings\trushanin.v\Desktop\05-21-2008\source\Demo Suite\RTRT Demo\Bin\obj\Debug\SceneEditor.BoxDialog.resources
+C:\Documents and Settings\trushanin.v\Desktop\05-21-2008\source\Demo Suite\RTRT Demo\Bin\obj\Debug\SceneEditor.SphereDialog.resources
+C:\Documents and Settings\trushanin.v\Desktop\05-21-2008\source\Demo Suite\RTRT Demo\Bin\obj\Debug\SceneEditor.SquareDialog.resources
+C:\Documents and Settings\trushanin.v\Desktop\05-21-2008\source\Demo Suite\RTRT Demo\Bin\obj\Debug\SceneEditor.SurfaceDialog.resources
+C:\Documents and Settings\trushanin.v\Desktop\05-21-2008\source\Demo Suite\RTRT Demo\Bin\obj\Debug\SceneEditor.RenderDialog.resources
+C:\Documents and Settings\trushanin.v\Desktop\05-21-2008\source\Demo Suite\RTRT Demo\Bin\obj\Debug\SceneEditor.TransformDialog.resources
+C:\Documents and Settings\trushanin.v\Desktop\05-21-2008\source\Demo Suite\RTRT Demo\Bin\obj\Debug\SceneEditor.LightDialog.resources
+C:\Documents and Settings\trushanin.v\Desktop\05-21-2008\source\Demo Suite\RTRT Demo\Bin\obj\Debug\SceneEditor.MaterialDialog.resources
+C:\Documents and Settings\trushanin.v\Desktop\05-21-2008\source\Demo Suite\RTRT Demo\Bin\obj\Debug\RTRT Demo.csproj.GenerateResource.Cache
+C:\Documents and Settings\trushanin.v\Desktop\05-21-2008\source\Demo Suite\RTRT Demo\Bin\obj\Debug\RTRT Demo.exe
+C:\Documents and Settings\trushanin.v\Desktop\05-21-2008\source\Demo Suite\RTRT Demo\Bin\obj\Debug\RTRT Demo.pdb
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\05-22-2008\source\Demo Suite\RTRT Demo\Bin\Debug\RTRT Demo.exe
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\05-22-2008\source\Demo Suite\RTRT Demo\Bin\Debug\RTRT Demo.pdb
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\05-22-2008\source\Demo Suite\RTRT Demo\Bin\Debug\Auxiliary.Graphics.dll
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\05-22-2008\source\Demo Suite\RTRT Demo\Bin\Debug\Auxiliary.Math.dll
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\05-22-2008\source\Demo Suite\RTRT Demo\Bin\Debug\Auxiliary.Primitive.dll
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\05-22-2008\source\Demo Suite\RTRT Demo\Bin\Debug\Auxiliary.Raytracing.dll
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\05-22-2008\source\Demo Suite\RTRT Demo\Bin\Debug\Tao.OpenGl.dll
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\05-22-2008\source\Demo Suite\RTRT Demo\Bin\Debug\Tao.Platform.Windows.dll
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\05-22-2008\source\Demo Suite\RTRT Demo\Bin\Debug\Tao.Platform.Windows.xml
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\05-22-2008\source\Demo Suite\RTRT Demo\Bin\Debug\Auxiliary.Graphics.pdb
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\05-22-2008\source\Demo Suite\RTRT Demo\Bin\Debug\Tao.OpenGl.xml
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\05-22-2008\source\Demo Suite\RTRT Demo\Bin\Debug\Auxiliary.Math.pdb
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\05-22-2008\source\Demo Suite\RTRT Demo\Bin\Debug\Auxiliary.Raytracing.pdb
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\05-22-2008\source\Demo Suite\RTRT Demo\Bin\Debug\Auxiliary.Primitive.pdb
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\05-22-2008\source\Demo Suite\RTRT Demo\Bin\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\05-22-2008\source\Demo Suite\RTRT Demo\Bin\obj\Debug\SceneEditor.MainForm.resources
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\05-22-2008\source\Demo Suite\RTRT Demo\Bin\obj\Debug\SceneEditor.AboutDialog.resources
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\05-22-2008\source\Demo Suite\RTRT Demo\Bin\obj\Debug\SceneEditor.BoxDialog.resources
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\05-22-2008\source\Demo Suite\RTRT Demo\Bin\obj\Debug\SceneEditor.SphereDialog.resources
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\05-22-2008\source\Demo Suite\RTRT Demo\Bin\obj\Debug\SceneEditor.SquareDialog.resources
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\05-22-2008\source\Demo Suite\RTRT Demo\Bin\obj\Debug\SceneEditor.SurfaceDialog.resources
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\05-22-2008\source\Demo Suite\RTRT Demo\Bin\obj\Debug\SceneEditor.RenderDialog.resources
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\05-22-2008\source\Demo Suite\RTRT Demo\Bin\obj\Debug\SceneEditor.TransformDialog.resources
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\05-22-2008\source\Demo Suite\RTRT Demo\Bin\obj\Debug\SceneEditor.LightDialog.resources
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\05-22-2008\source\Demo Suite\RTRT Demo\Bin\obj\Debug\SceneEditor.MaterialDialog.resources
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\05-22-2008\source\Demo Suite\RTRT Demo\Bin\obj\Debug\RTRT Demo.csproj.GenerateResource.Cache
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\05-22-2008\source\Demo Suite\RTRT Demo\Bin\obj\Debug\RTRT Demo.exe
+C:\Documents and Settings\Denis Bogolepov\Рабочий стол\05-22-2008\source\Demo Suite\RTRT Demo\Bin\obj\Debug\RTRT Demo.pdb
+H:\!05-23-2008!\source\Demo Suite\RTRT Demo\Bin\Debug\RTRT Demo.exe
+H:\!05-23-2008!\source\Demo Suite\RTRT Demo\Bin\Debug\RTRT Demo.pdb
+H:\!05-23-2008!\source\Demo Suite\RTRT Demo\Bin\Debug\Auxiliary.Graphics.dll
+H:\!05-23-2008!\source\Demo Suite\RTRT Demo\Bin\Debug\Auxiliary.Math.dll
+H:\!05-23-2008!\source\Demo Suite\RTRT Demo\Bin\Debug\Auxiliary.Primitive.dll
+H:\!05-23-2008!\source\Demo Suite\RTRT Demo\Bin\Debug\Auxiliary.Raytracing.dll
+H:\!05-23-2008!\source\Demo Suite\RTRT Demo\Bin\Debug\Tao.OpenGl.dll
+H:\!05-23-2008!\source\Demo Suite\RTRT Demo\Bin\Debug\Tao.Platform.Windows.dll
+H:\!05-23-2008!\source\Demo Suite\RTRT Demo\Bin\Debug\Tao.Platform.Windows.xml
+H:\!05-23-2008!\source\Demo Suite\RTRT Demo\Bin\Debug\Auxiliary.Graphics.pdb
+H:\!05-23-2008!\source\Demo Suite\RTRT Demo\Bin\Debug\Tao.OpenGl.xml
+H:\!05-23-2008!\source\Demo Suite\RTRT Demo\Bin\Debug\Auxiliary.Math.pdb
+H:\!05-23-2008!\source\Demo Suite\RTRT Demo\Bin\Debug\Auxiliary.Raytracing.pdb
+H:\!05-23-2008!\source\Demo Suite\RTRT Demo\Bin\Debug\Auxiliary.Primitive.pdb
+H:\!05-23-2008!\source\Demo Suite\RTRT Demo\Bin\obj\Debug\ResolveAssemblyReference.cache
+H:\!05-23-2008!\source\Demo Suite\RTRT Demo\Bin\obj\Debug\SceneEditor.MainForm.resources
+H:\!05-23-2008!\source\Demo Suite\RTRT Demo\Bin\obj\Debug\SceneEditor.AboutDialog.resources
+H:\!05-23-2008!\source\Demo Suite\RTRT Demo\Bin\obj\Debug\SceneEditor.BoxDialog.resources
+H:\!05-23-2008!\source\Demo Suite\RTRT Demo\Bin\obj\Debug\SceneEditor.SphereDialog.resources
+H:\!05-23-2008!\source\Demo Suite\RTRT Demo\Bin\obj\Debug\SceneEditor.SquareDialog.resources
+H:\!05-23-2008!\source\Demo Suite\RTRT Demo\Bin\obj\Debug\SceneEditor.SurfaceDialog.resources
+H:\!05-23-2008!\source\Demo Suite\RTRT Demo\Bin\obj\Debug\SceneEditor.RenderDialog.resources
+H:\!05-23-2008!\source\Demo Suite\RTRT Demo\Bin\obj\Debug\SceneEditor.TransformDialog.resources
+H:\!05-23-2008!\source\Demo Suite\RTRT Demo\Bin\obj\Debug\SceneEditor.LightDialog.resources
+H:\!05-23-2008!\source\Demo Suite\RTRT Demo\Bin\obj\Debug\SceneEditor.MaterialDialog.resources
+H:\!05-23-2008!\source\Demo Suite\RTRT Demo\Bin\obj\Debug\RTRT Demo.csproj.GenerateResource.Cache
+H:\!05-23-2008!\source\Demo Suite\RTRT Demo\Bin\obj\Debug\RTRT Demo.exe
+H:\!05-23-2008!\source\Demo Suite\RTRT Demo\Bin\obj\Debug\RTRT Demo.pdb
+F:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\RTRT Demo\Bin\obj\Debug\ResolveAssemblyReference.cache
+F:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\RTRT Demo\Bin\obj\Debug\SceneEditor.MainForm.resources
+F:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\RTRT Demo\Bin\obj\Debug\SceneEditor.AboutDialog.resources
+F:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\RTRT Demo\Bin\obj\Debug\SceneEditor.BoxDialog.resources
+F:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\RTRT Demo\Bin\obj\Debug\SceneEditor.SphereDialog.resources
+F:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\RTRT Demo\Bin\obj\Debug\SceneEditor.SquareDialog.resources
+F:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\RTRT Demo\Bin\obj\Debug\SceneEditor.SurfaceDialog.resources
+F:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\RTRT Demo\Bin\obj\Debug\SceneEditor.RenderDialog.resources
+F:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\RTRT Demo\Bin\obj\Debug\SceneEditor.TransformDialog.resources
+F:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\RTRT Demo\Bin\obj\Debug\SceneEditor.LightDialog.resources
+F:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\RTRT Demo\Bin\obj\Debug\SceneEditor.MaterialDialog.resources
+F:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\RTRT Demo\Bin\obj\Debug\RTRT Demo.csproj.GenerateResource.Cache
+F:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\RTRT Demo\Bin\obj\Debug\RTRT Demo.exe
+F:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\RTRT Demo\Bin\Debug\RTRT Demo.exe
+F:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\RTRT Demo\Bin\Debug\RTRT Demo.pdb
+F:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\RTRT Demo\Bin\Debug\Auxiliary.Graphics.dll
+F:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\RTRT Demo\Bin\Debug\Auxiliary.Math.dll
+F:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\RTRT Demo\Bin\Debug\Auxiliary.Primitive.dll
+F:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\RTRT Demo\Bin\Debug\Tao.OpenGl.dll
+F:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\RTRT Demo\Bin\Debug\Tao.Platform.Windows.dll
+F:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\RTRT Demo\Bin\Debug\Tao.Platform.Windows.xml
+F:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\RTRT Demo\Bin\Debug\Auxiliary.Graphics.pdb
+F:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\RTRT Demo\Bin\Debug\Tao.OpenGl.xml
+F:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\RTRT Demo\Bin\Debug\Auxiliary.Math.pdb
+F:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\RTRT Demo\Bin\Debug\Auxiliary.Primitive.pdb
+F:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\RTRT Demo\Bin\obj\Debug\RTRT Demo.pdb
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\RTRT Demo\Bin\obj\Debug\ResolveAssemblyReference.cache
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\RTRT Demo\Bin\obj\Debug\SceneEditor.MainForm.resources
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\RTRT Demo\Bin\obj\Debug\SceneEditor.AboutDialog.resources
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\RTRT Demo\Bin\obj\Debug\SceneEditor.BoxDialog.resources
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\RTRT Demo\Bin\obj\Debug\SceneEditor.SphereDialog.resources
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\RTRT Demo\Bin\obj\Debug\SceneEditor.SquareDialog.resources
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\RTRT Demo\Bin\obj\Debug\SceneEditor.RenderDialog.resources
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\RTRT Demo\Bin\obj\Debug\SceneEditor.TransformDialog.resources
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\RTRT Demo\Bin\obj\Debug\SceneEditor.LightDialog.resources
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\RTRT Demo\Bin\obj\Debug\SceneEditor.MaterialDialog.resources
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\RTRT Demo\Bin\obj\Debug\RTRT Demo.csproj.GenerateResource.Cache
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\RTRT Demo\Bin\obj\Debug\RTRT Demo.exe
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\RTRT Demo\Bin\obj\Debug\RTRT Demo.pdb
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\RTRT Demo\Bin\Debug\RTRT Demo.exe
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\RTRT Demo\Bin\Debug\RTRT Demo.pdb
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\RTRT Demo\Bin\Debug\Auxiliary.Graphics.dll
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\RTRT Demo\Bin\Debug\Auxiliary.Math.dll
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\RTRT Demo\Bin\Debug\Auxiliary.Raytracing.dll
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\RTRT Demo\Bin\Debug\Tao.OpenGl.dll
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\RTRT Demo\Bin\Debug\Tao.Platform.Windows.dll
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\RTRT Demo\Bin\Debug\Tao.Platform.Windows.xml
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\RTRT Demo\Bin\Debug\Auxiliary.Graphics.pdb
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\RTRT Demo\Bin\Debug\Tao.OpenGl.xml
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\RTRT Demo\Bin\Debug\Auxiliary.Math.pdb
+D:\CG Tutorial\4 - Realistic Image Synthesis\Practice\Raytracing Tutorial\Demo Suite\RTRT Demo\Bin\Debug\Auxiliary.Raytracing.pdb

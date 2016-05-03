@@ -1,0 +1,34 @@
+C:\Documents and Settings\Пользователь\Рабочий стол\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Пользователь\Рабочий стол\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\obj\Debug\SceneEditor.MainForm.resources
+C:\Documents and Settings\Пользователь\Рабочий стол\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\obj\Debug\GL  Demo.csproj.GenerateResource.Cache
+C:\Documents and Settings\Пользователь\Рабочий стол\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\obj\Debug\RTRT Demo.exe
+C:\Documents and Settings\Пользователь\Рабочий стол\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\Debug\RTRT Demo.exe
+C:\Documents and Settings\Пользователь\Рабочий стол\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\Debug\RTRT Demo.pdb
+C:\Documents and Settings\Пользователь\Рабочий стол\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\Debug\Auxiliary.Graphics.dll
+C:\Documents and Settings\Пользователь\Рабочий стол\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\Debug\Auxiliary.Math.dll
+C:\Documents and Settings\Пользователь\Рабочий стол\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\Debug\Auxiliary.Raytracing.dll
+C:\Documents and Settings\Пользователь\Рабочий стол\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\Debug\Tao.OpenGl.dll
+C:\Documents and Settings\Пользователь\Рабочий стол\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\Debug\Tao.Platform.Windows.dll
+C:\Documents and Settings\Пользователь\Рабочий стол\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\Debug\Tao.Platform.Windows.xml
+C:\Documents and Settings\Пользователь\Рабочий стол\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\Debug\Auxiliary.Graphics.pdb
+C:\Documents and Settings\Пользователь\Рабочий стол\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\Debug\Tao.OpenGl.xml
+C:\Documents and Settings\Пользователь\Рабочий стол\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\Debug\Auxiliary.Math.pdb
+C:\Documents and Settings\Пользователь\Рабочий стол\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\Debug\Auxiliary.Raytracing.pdb
+C:\Documents and Settings\Пользователь\Рабочий стол\Raytracing Tutorial\Demo Suite\Raytracing  Demo\Bin\obj\Debug\RTRT Demo.pdb
+C:\Documents and Settings\Пользователь\Рабочий стол\GL Demo\Demo Suite\Raytracing  Demo\Bin\Debug\RTRT Demo.exe
+C:\Documents and Settings\Пользователь\Рабочий стол\GL Demo\Demo Suite\Raytracing  Demo\Bin\Debug\RTRT Demo.pdb
+C:\Documents and Settings\Пользователь\Рабочий стол\GL Demo\Demo Suite\Raytracing  Demo\Bin\Debug\Auxiliary.Graphics.dll
+C:\Documents and Settings\Пользователь\Рабочий стол\GL Demo\Demo Suite\Raytracing  Demo\Bin\Debug\Auxiliary.Math.dll
+C:\Documents and Settings\Пользователь\Рабочий стол\GL Demo\Demo Suite\Raytracing  Demo\Bin\Debug\Auxiliary.Raytracing.dll
+C:\Documents and Settings\Пользователь\Рабочий стол\GL Demo\Demo Suite\Raytracing  Demo\Bin\Debug\Tao.OpenGl.dll
+C:\Documents and Settings\Пользователь\Рабочий стол\GL Demo\Demo Suite\Raytracing  Demo\Bin\Debug\Tao.Platform.Windows.dll
+C:\Documents and Settings\Пользователь\Рабочий стол\GL Demo\Demo Suite\Raytracing  Demo\Bin\Debug\Tao.Platform.Windows.xml
+C:\Documents and Settings\Пользователь\Рабочий стол\GL Demo\Demo Suite\Raytracing  Demo\Bin\Debug\Auxiliary.Graphics.pdb
+C:\Documents and Settings\Пользователь\Рабочий стол\GL Demo\Demo Suite\Raytracing  Demo\Bin\Debug\Tao.OpenGl.xml
+C:\Documents and Settings\Пользователь\Рабочий стол\GL Demo\Demo Suite\Raytracing  Demo\Bin\Debug\Auxiliary.Math.pdb
+C:\Documents and Settings\Пользователь\Рабочий стол\GL Demo\Demo Suite\Raytracing  Demo\Bin\Debug\Auxiliary.Raytracing.pdb
+C:\Documents and Settings\Пользователь\Рабочий стол\GL Demo\Demo Suite\Raytracing  Demo\Bin\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Пользователь\Рабочий стол\GL Demo\Demo Suite\Raytracing  Demo\Bin\obj\Debug\SceneEditor.MainForm.resources
+C:\Documents and Settings\Пользователь\Рабочий стол\GL Demo\Demo Suite\Raytracing  Demo\Bin\obj\Debug\GL  Demo.csproj.GenerateResource.Cache
+C:\Documents and Settings\Пользователь\Рабочий стол\GL Demo\Demo Suite\Raytracing  Demo\Bin\obj\Debug\RTRT Demo.exe
+C:\Documents and Settings\Пользователь\Рабочий стол\GL Demo\Demo Suite\Raytracing  Demo\Bin\obj\Debug\RTRT Demo.pdb

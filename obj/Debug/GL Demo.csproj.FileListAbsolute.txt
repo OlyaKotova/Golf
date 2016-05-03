@@ -1,0 +1,140 @@
+C:\Users\Даня\Desktop\GL-TextureDemo\bin\Debug\GL Demo.exe.config
+C:\Users\Даня\Desktop\GL-TextureDemo\obj\Debug\GL Demo.exe
+C:\Users\Даня\Desktop\GL-TextureDemo\obj\Debug\GL Demo.pdb
+C:\Users\Даня\Desktop\GL-TextureDemo\bin\Debug\GL Demo.exe
+C:\Users\Даня\Desktop\GL-TextureDemo\bin\Debug\GL Demo.pdb
+C:\Users\Даня\Desktop\GL-TextureDemo\bin\Debug\Auxiliary.Graphics.pdb
+C:\Users\Даня\Desktop\GL-TextureDemo\bin\Debug\Auxiliary.Math.pdb
+C:\Users\Даня\Desktop\GL-TextureDemo\bin\Debug\Auxiliary.Primitive.pdb
+C:\Users\Даня\Desktop\GL-TextureDemo\bin\Debug\Auxiliary.Raytracing.pdb
+C:\Users\Даня\Desktop\GL-TextureDemo\bin\Debug\Tao.OpenGl.xml
+C:\Users\Даня\Desktop\GL-TextureDemo\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\Даня\Desktop\GL-TextureDemo\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Даня\Desktop\GL-TextureDemo\obj\Debug\SceneEditor.MainForm.resources
+C:\Users\Даня\Desktop\GL-TextureDemo\obj\Debug\GL_Demo.Properties.Resources.resources
+C:\Users\Даня\Desktop\GL-TextureDemo\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Даня\Desktop\GL-TextureDemo\obj\Debug\GenerateResource.write.1.tlog
+E:\Новая папка (2)\GL-TextureDemo\bin\Debug\GL Demo.exe.config
+E:\Новая папка (2)\GL-TextureDemo\obj\Debug\GL Demo.exe
+E:\Новая папка (2)\GL-TextureDemo\obj\Debug\GL Demo.pdb
+E:\Новая папка (2)\GL-TextureDemo\bin\Debug\GL Demo.exe
+E:\Новая папка (2)\GL-TextureDemo\bin\Debug\GL Demo.pdb
+E:\Новая папка (2)\GL-TextureDemo\bin\Debug\Auxiliary.Graphics.dll
+E:\Новая папка (2)\GL-TextureDemo\bin\Debug\Auxiliary.Math.dll
+E:\Новая папка (2)\GL-TextureDemo\bin\Debug\Auxiliary.Primitive.dll
+E:\Новая папка (2)\GL-TextureDemo\bin\Debug\Auxiliary.Raytracing.dll
+E:\Новая папка (2)\GL-TextureDemo\bin\Debug\Tao.DevIl.dll
+E:\Новая папка (2)\GL-TextureDemo\bin\Debug\Tao.FreeGlut.dll
+E:\Новая папка (2)\GL-TextureDemo\bin\Debug\Tao.OpenAl.dll
+E:\Новая папка (2)\GL-TextureDemo\bin\Debug\Tao.OpenGl.dll
+E:\Новая папка (2)\GL-TextureDemo\bin\Debug\Tao.Platform.Windows.dll
+E:\Новая папка (2)\GL-TextureDemo\bin\Debug\Auxiliary.Graphics.pdb
+E:\Новая папка (2)\GL-TextureDemo\bin\Debug\Auxiliary.Math.pdb
+E:\Новая папка (2)\GL-TextureDemo\bin\Debug\Auxiliary.Primitive.pdb
+E:\Новая папка (2)\GL-TextureDemo\bin\Debug\Auxiliary.Raytracing.pdb
+E:\Новая папка (2)\GL-TextureDemo\bin\Debug\Tao.DevIl.xml
+E:\Новая папка (2)\GL-TextureDemo\bin\Debug\Tao.FreeGlut.xml
+E:\Новая папка (2)\GL-TextureDemo\bin\Debug\Tao.OpenAl.xml
+E:\Новая папка (2)\GL-TextureDemo\bin\Debug\Tao.OpenGl.xml
+E:\Новая папка (2)\GL-TextureDemo\bin\Debug\Tao.Platform.Windows.xml
+E:\Новая папка (2)\GL-TextureDemo\obj\Debug\ResolveAssemblyReference.cache
+E:\Новая папка (2)\GL-TextureDemo\obj\Debug\SceneEditor.MainForm.resources
+E:\Новая папка (2)\GL-TextureDemo\obj\Debug\GL_Demo.Properties.Resources.resources
+E:\Новая папка (2)\GL-TextureDemo\obj\Debug\GenerateResource.read.1.tlog
+E:\Новая папка (2)\GL-TextureDemo\obj\Debug\GenerateResource.write.1.tlog
+F:\Новая папка (2)\GL-TextureDemo\bin\Debug\GL Demo.exe.config
+F:\Новая папка (2)\GL-TextureDemo\obj\Debug\GL Demo.exe
+F:\Новая папка (2)\GL-TextureDemo\obj\Debug\GL Demo.pdb
+F:\Новая папка (2)\GL-TextureDemo\bin\Debug\GL Demo.exe
+F:\Новая папка (2)\GL-TextureDemo\bin\Debug\GL Demo.pdb
+F:\Новая папка (2)\GL-TextureDemo\bin\Debug\Auxiliary.Graphics.dll
+F:\Новая папка (2)\GL-TextureDemo\bin\Debug\Auxiliary.Math.dll
+F:\Новая папка (2)\GL-TextureDemo\bin\Debug\Auxiliary.Primitive.dll
+F:\Новая папка (2)\GL-TextureDemo\bin\Debug\Auxiliary.Raytracing.dll
+F:\Новая папка (2)\GL-TextureDemo\bin\Debug\Tao.OpenGl.dll
+F:\Новая папка (2)\GL-TextureDemo\bin\Debug\Tao.Platform.Windows.dll
+F:\Новая папка (2)\GL-TextureDemo\bin\Debug\Auxiliary.Graphics.pdb
+F:\Новая папка (2)\GL-TextureDemo\bin\Debug\Auxiliary.Math.pdb
+F:\Новая папка (2)\GL-TextureDemo\bin\Debug\Auxiliary.Primitive.pdb
+F:\Новая папка (2)\GL-TextureDemo\bin\Debug\Auxiliary.Raytracing.pdb
+F:\Новая папка (2)\GL-TextureDemo\bin\Debug\Tao.OpenGl.xml
+F:\Новая папка (2)\GL-TextureDemo\bin\Debug\Tao.Platform.Windows.xml
+F:\Новая папка (2)\GL-TextureDemo\obj\Debug\ResolveAssemblyReference.cache
+F:\Новая папка (2)\GL-TextureDemo\obj\Debug\SceneEditor.MainForm.resources
+F:\Новая папка (2)\GL-TextureDemo\obj\Debug\GL_Demo.Properties.Resources.resources
+F:\Новая папка (2)\GL-TextureDemo\obj\Debug\GenerateResource.read.1.tlog
+F:\Новая папка (2)\GL-TextureDemo\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\tva\Рабочий стол\GL-TextureDemo 3\bin\Debug\GL Demo.exe.config
+C:\Documents and Settings\tva\Рабочий стол\GL-TextureDemo 3\obj\Debug\GL Demo.exe
+C:\Documents and Settings\tva\Рабочий стол\GL-TextureDemo 3\obj\Debug\GL Demo.pdb
+C:\Documents and Settings\tva\Рабочий стол\GL-TextureDemo 3\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\tva\Рабочий стол\GL-TextureDemo 3\obj\Debug\SceneEditor.MainForm.resources
+C:\Documents and Settings\tva\Рабочий стол\GL-TextureDemo 3\obj\Debug\GL_Demo.Properties.Resources.resources
+C:\Documents and Settings\tva\Рабочий стол\GL-TextureDemo 3\obj\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\tva\Рабочий стол\GL-TextureDemo 3\obj\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\tva\Рабочий стол\GL-TextureDemo 3\bin\Debug\GL Demo.exe
+C:\Documents and Settings\tva\Рабочий стол\GL-TextureDemo 3\bin\Debug\GL Demo.pdb
+C:\Documents and Settings\tva\Рабочий стол\GL-TextureDemo 3\bin\Debug\Auxiliary.Graphics.pdb
+C:\Documents and Settings\tva\Рабочий стол\GL-TextureDemo 3\bin\Debug\Auxiliary.Math.pdb
+C:\Documents and Settings\tva\Рабочий стол\GL-TextureDemo 3\bin\Debug\Auxiliary.Primitive.pdb
+C:\Documents and Settings\tva\Рабочий стол\GL-TextureDemo 3\bin\Debug\Auxiliary.Raytracing.pdb
+C:\Documents and Settings\tva\Рабочий стол\GL-TextureDemo 3\bin\Debug\Tao.DevIl.xml
+C:\Documents and Settings\tva\Рабочий стол\GL-TextureDemo 3\bin\Debug\Tao.FreeGlut.xml
+C:\Documents and Settings\tva\Рабочий стол\GL-TextureDemo 3\bin\Debug\Tao.OpenAl.xml
+C:\Documents and Settings\tva\Рабочий стол\GL-TextureDemo 3\bin\Debug\Tao.OpenGl.xml
+C:\Documents and Settings\tva\Рабочий стол\GL-TextureDemo 3\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\Даня\Desktop\GL-TextureDemo 4\bin\Debug\GL Demo.exe.config
+C:\Users\Даня\Desktop\GL-TextureDemo 4\obj\Debug\GL Demo.exe
+C:\Users\Даня\Desktop\GL-TextureDemo 4\obj\Debug\GL Demo.pdb
+C:\Users\Даня\Desktop\GL-TextureDemo 4\bin\Debug\GL Demo.exe
+C:\Users\Даня\Desktop\GL-TextureDemo 4\bin\Debug\GL Demo.pdb
+C:\Users\Даня\Desktop\GL-TextureDemo 4\bin\Debug\Auxiliary.Graphics.pdb
+C:\Users\Даня\Desktop\GL-TextureDemo 4\bin\Debug\Auxiliary.Math.pdb
+C:\Users\Даня\Desktop\GL-TextureDemo 4\bin\Debug\Auxiliary.Primitive.pdb
+C:\Users\Даня\Desktop\GL-TextureDemo 4\bin\Debug\Auxiliary.Raytracing.pdb
+C:\Users\Даня\Desktop\GL-TextureDemo 4\bin\Debug\Tao.OpenGl.xml
+C:\Users\Даня\Desktop\GL-TextureDemo 4\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\Даня\Desktop\GL-TextureDemo 4\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Даня\Desktop\GL-TextureDemo 4\obj\Debug\SceneEditor.MainForm.resources
+C:\Users\Даня\Desktop\GL-TextureDemo 4\obj\Debug\GL_Demo.Properties.Resources.resources
+C:\Users\Даня\Desktop\GL-TextureDemo 4\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Даня\Desktop\GL-TextureDemo 4\obj\Debug\GenerateResource.write.1.tlog
+F:\Зачет\Гольф\bin\Debug\GL Demo.exe.config
+F:\Зачет\Гольф\obj\Debug\GL Demo.exe
+F:\Зачет\Гольф\obj\Debug\GL Demo.pdb
+C:\Users\Даня\Documents\Материалы\Компьютерная Графика\Гольф\bin\Debug\GL Demo.exe.config
+C:\Users\Даня\Documents\Материалы\Компьютерная Графика\Гольф\obj\Debug\GL Demo.exe
+C:\Users\Даня\Documents\Материалы\Компьютерная Графика\Гольф\obj\Debug\GL Demo.pdb
+C:\Users\user\Desktop\LAB\Comp_Lab\Гольф\bin\Debug\GL Demo.exe.config
+C:\Users\user\Desktop\LAB\Comp_Lab\Гольф\obj\Debug\GL Demo.exe
+C:\Users\user\Desktop\LAB\Comp_Lab\Гольф\obj\Debug\GL Demo.pdb
+C:\Users\user\Desktop\LAB\Comp_Lab\Гольф\bin\Debug\GL Demo.exe
+C:\Users\user\Desktop\LAB\Comp_Lab\Гольф\bin\Debug\GL Demo.pdb
+C:\Users\user\Desktop\LAB\Comp_Lab\Гольф\bin\Debug\Auxiliary.Graphics.pdb
+C:\Users\user\Desktop\LAB\Comp_Lab\Гольф\bin\Debug\Auxiliary.Math.pdb
+C:\Users\user\Desktop\LAB\Comp_Lab\Гольф\bin\Debug\Auxiliary.Primitive.pdb
+C:\Users\user\Desktop\LAB\Comp_Lab\Гольф\bin\Debug\Auxiliary.Raytracing.pdb
+C:\Users\user\Desktop\LAB\Comp_Lab\Гольф\bin\Debug\Tao.OpenGl.xml
+C:\Users\user\Desktop\LAB\Comp_Lab\Гольф\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\user\Desktop\LAB\Comp_Lab\Гольф\obj\Debug\GL Demo.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\LAB\Comp_Lab\Гольф\obj\Debug\SceneEditor.MainForm.resources
+C:\Users\user\Desktop\LAB\Comp_Lab\Гольф\obj\Debug\GL_Demo.Properties.Resources.resources
+C:\Users\user\Desktop\LAB\Comp_Lab\Гольф\obj\Debug\GL Demo.csproj.GenerateResource.Cache
+C:\Users\user\Documents\GitHub\Golf\bin\Debug\GL Demo.exe.config
+C:\Users\user\Documents\GitHub\Golf\obj\Debug\GL Demo.exe
+C:\Users\user\Documents\GitHub\Golf\obj\Debug\GL Demo.pdb
+C:\Users\user\Documents\GitHub\Golf\bin\Debug\GL Demo.exe
+C:\Users\user\Documents\GitHub\Golf\bin\Debug\GL Demo.pdb
+C:\Users\user\Documents\GitHub\Golf\bin\Debug\Auxiliary.Graphics.pdb
+C:\Users\user\Documents\GitHub\Golf\bin\Debug\Auxiliary.Math.pdb
+C:\Users\user\Documents\GitHub\Golf\bin\Debug\Auxiliary.Primitive.pdb
+C:\Users\user\Documents\GitHub\Golf\bin\Debug\Auxiliary.Raytracing.pdb
+C:\Users\user\Documents\GitHub\Golf\bin\Debug\OpenTK.pdb
+C:\Users\user\Documents\GitHub\Golf\bin\Debug\OpenTK.xml
+C:\Users\user\Documents\GitHub\Golf\bin\Debug\OpenTK.GLControl.xml
+C:\Users\user\Documents\GitHub\Golf\bin\Debug\Tao.OpenGl.xml
+C:\Users\user\Documents\GitHub\Golf\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\user\Documents\GitHub\Golf\obj\Debug\GL Demo.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\Golf\obj\Debug\SceneEditor.MainForm.resources
+C:\Users\user\Documents\GitHub\Golf\obj\Debug\GL_Demo.Properties.Resources.resources
+C:\Users\user\Documents\GitHub\Golf\obj\Debug\GL Demo.csproj.GenerateResource.Cache
