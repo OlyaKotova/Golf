@@ -1,0 +1,18 @@
+C:\Users\user\Documents\GitHub\Golf\bin\Debug\GL Demo.exe.config
+C:\Users\user\Documents\GitHub\Golf\bin\Debug\GL Demo.exe
+C:\Users\user\Documents\GitHub\Golf\bin\Debug\GL Demo.pdb
+C:\Users\user\Documents\GitHub\Golf\bin\Debug\Auxiliary.Graphics.pdb
+C:\Users\user\Documents\GitHub\Golf\bin\Debug\Auxiliary.Math.pdb
+C:\Users\user\Documents\GitHub\Golf\bin\Debug\Auxiliary.Primitive.pdb
+C:\Users\user\Documents\GitHub\Golf\bin\Debug\Auxiliary.Raytracing.pdb
+C:\Users\user\Documents\GitHub\Golf\bin\Debug\OpenTK.pdb
+C:\Users\user\Documents\GitHub\Golf\bin\Debug\OpenTK.xml
+C:\Users\user\Documents\GitHub\Golf\bin\Debug\OpenTK.GLControl.xml
+C:\Users\user\Documents\GitHub\Golf\bin\Debug\Tao.OpenGl.xml
+C:\Users\user\Documents\GitHub\Golf\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\user\Documents\GitHub\Golf\obj\Debug\Golf.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\GitHub\Golf\obj\Debug\SceneEditor.MainForm.resources
+C:\Users\user\Documents\GitHub\Golf\obj\Debug\GL_Demo.Properties.Resources.resources
+C:\Users\user\Documents\GitHub\Golf\obj\Debug\Golf.csproj.GenerateResource.Cache
+C:\Users\user\Documents\GitHub\Golf\obj\Debug\GL Demo.exe
+C:\Users\user\Documents\GitHub\Golf\obj\Debug\GL Demo.pdb

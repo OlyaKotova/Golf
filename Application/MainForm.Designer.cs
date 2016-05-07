@@ -36,7 +36,6 @@
             this.toolStripViewport = new System.Windows.Forms.ToolStrip();
             this.labelViewport = new System.Windows.Forms.ToolStripLabel();
             this.labelMouseActive = new System.Windows.Forms.ToolStripLabel();
-            this.panelOpenGL1 = new Tao.Platform.Windows.SimpleOpenGlControl();
             this.timer = new System.Windows.Forms.Timer(this.components);
             this.panelStatus = new System.Windows.Forms.Panel();
             this.labelOrientation = new System.Windows.Forms.Label();
@@ -48,7 +47,6 @@
             this.label6 = new System.Windows.Forms.Label();
             this.label7 = new System.Windows.Forms.Label();
             this.openFileDialog1 = new System.Windows.Forms.OpenFileDialog();
-            this.panel1 = new System.Windows.Forms.Panel();
             this.panelView.SuspendLayout();
             this.toolStripViewport.SuspendLayout();
             this.panelStatus.SuspendLayout();
@@ -70,9 +68,9 @@
             this.panelView.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.panelView.Controls.Add(this.panelOpenGL);
             this.panelView.Controls.Add(this.toolStripViewport);
-            this.panelView.Location = new System.Drawing.Point(5, 23);
+            this.panelView.Location = new System.Drawing.Point(95, 30);
             this.panelView.Name = "panelView";
-            this.panelView.Size = new System.Drawing.Size(313, 437);
+            this.panelView.Size = new System.Drawing.Size(443, 467);
             this.panelView.TabIndex = 12;
             // 
             // panelOpenGL
@@ -85,9 +83,9 @@
             this.panelOpenGL.BackColor = System.Drawing.Color.Black;
             this.panelOpenGL.ColorBits = ((byte)(32));
             this.panelOpenGL.DepthBits = ((byte)(16));
-            this.panelOpenGL.Location = new System.Drawing.Point(14, 65);
+            this.panelOpenGL.Location = new System.Drawing.Point(14, 45);
             this.panelOpenGL.Name = "panelOpenGL";
-            this.panelOpenGL.Size = new System.Drawing.Size(277, 328);
+            this.panelOpenGL.Size = new System.Drawing.Size(409, 348);
             this.panelOpenGL.StencilBits = ((byte)(0));
             this.panelOpenGL.TabIndex = 8;
             this.panelOpenGL.Load += new System.EventHandler(this.panelOpenGL_Load);
@@ -107,8 +105,9 @@
             this.toolStripViewport.Location = new System.Drawing.Point(0, 0);
             this.toolStripViewport.Name = "toolStripViewport";
             this.toolStripViewport.RenderMode = System.Windows.Forms.ToolStripRenderMode.System;
-            this.toolStripViewport.Size = new System.Drawing.Size(309, 25);
+            this.toolStripViewport.Size = new System.Drawing.Size(439, 25);
             this.toolStripViewport.TabIndex = 4;
+            this.toolStripViewport.ItemClicked += new System.Windows.Forms.ToolStripItemClickedEventHandler(this.toolStripViewport_ItemClicked);
             // 
             // labelViewport
             // 
@@ -123,23 +122,6 @@
             this.labelMouseActive.Size = new System.Drawing.Size(23, 22);
             this.labelMouseActive.Text = "8";
             this.labelMouseActive.Visible = false;
-            // 
-            // panelOpenGL1
-            // 
-            this.panelOpenGL1.AccumBits = ((byte)(0));
-            this.panelOpenGL1.AutoCheckErrors = false;
-            this.panelOpenGL1.AutoFinish = false;
-            this.panelOpenGL1.AutoMakeCurrent = true;
-            this.panelOpenGL1.AutoSwapBuffers = true;
-            this.panelOpenGL1.BackColor = System.Drawing.Color.Black;
-            this.panelOpenGL1.ColorBits = ((byte)(32));
-            this.panelOpenGL1.DepthBits = ((byte)(16));
-            this.panelOpenGL1.Location = new System.Drawing.Point(341, 90);
-            this.panelOpenGL1.Name = "panelOpenGL1";
-            this.panelOpenGL1.Size = new System.Drawing.Size(277, 328);
-            this.panelOpenGL1.StencilBits = ((byte)(0));
-            this.panelOpenGL1.TabIndex = 9;
-            this.panelOpenGL1.Load += new System.EventHandler(this.panelOpenGL1_Load);
             // 
             // timer
             // 
@@ -248,14 +230,6 @@
             // 
             this.openFileDialog1.FileName = "openFileDialog1";
             // 
-            // panel1
-            // 
-            this.panel1.BackColor = System.Drawing.SystemColors.ActiveBorder;
-            this.panel1.Location = new System.Drawing.Point(324, 25);
-            this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(313, 435);
-            this.panel1.TabIndex = 27;
-            // 
             // MainForm
             // 
             this.AcceptButton = this.button1;
@@ -264,8 +238,6 @@
             this.BackColor = System.Drawing.SystemColors.Control;
             this.CancelButton = this.button2;
             this.ClientSize = new System.Drawing.Size(962, 509);
-            this.Controls.Add(this.panelOpenGL1);
-            this.Controls.Add(this.panel1);
             this.Controls.Add(this.label7);
             this.Controls.Add(this.label6);
             this.Controls.Add(this.button5);
@@ -304,13 +276,11 @@
         #endregion
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Button button4;
+        private System.Windows.Forms.Button button4; 
         private System.Windows.Forms.Button button5;
         private System.Windows.Forms.Label label6;
         private System.Windows.Forms.Label label7;
         private System.Windows.Forms.OpenFileDialog openFileDialog1;
-        private Tao.Platform.Windows.SimpleOpenGlControl panelOpenGL1;
-        private System.Windows.Forms.Panel panel1;
 
 
 

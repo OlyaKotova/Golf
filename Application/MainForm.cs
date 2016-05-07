@@ -25,7 +25,11 @@ namespace SceneEditor
 		
 		/// <summary> Управляет камерой при помощи клавиатуры. </summary>
 		private Keyboard keyboard = new Keyboard();
-		        private float xsh = 30, ysh = -30f, zsh = 1f,xc = 30,yc = -35,zc = 4,u, rd = 2.5f,ty = 1f,tx = 1f,rad = 1.5839f,cx,cy,cz, yu, size = 50,s,vz,vy,az,t;
+		        private float   xsh = 30, ysh = -30, zsh = 1f,  // начальное положение мяча
+                                xc = 10, yc = -10, zc = 4,
+                                u, rd = 2.5f, ty = 1f, tx = 1f,
+                                rad = 1.5839f, cx, cy, cz, yu, 
+                                size = 50, s, vz, vy, az, t;
        
 		/// <summary> Камера для 'съемки' сцены. </summary>
                 private Camera camera = new Camera(new Vector3D(30f, -37f, 2.86f),
@@ -37,7 +41,7 @@ namespace SceneEditor
 		
 		/// <summary> Текущее время для управления источниками света. </summary>
 		private float time = 0.0f;
-        private bool flag1=false,flag2=false,flag3=false,flag4=false,b3=false,b4=false;
+        private bool flag1=false, flag2=false, flag3=false, flag4=false, b3=false, b4=false;
         private float startTime=0;
         private float ang = 30f;
         private int score = 0;
@@ -412,7 +416,7 @@ namespace SceneEditor
                 Gl.glColor3f(1.0f, 1.0f, 1.0f);
                 Glu.gluQuadricTexture(quad2, Gl.GL_TRUE);
                 Gl.glBindTexture(Gl.GL_TEXTURE_2D, texture[4]);
-                Glu.gluSphere(quad2, 1f, 50, 50);
+                Glu.gluSphere(quad2, 1f, 10, 10);
                 Gl.glBindTexture(Gl.GL_TEXTURE_2D, 0);
                 Gl.glPopMatrix();
             Glu.gluDeleteQuadric(quad2);			
@@ -476,6 +480,7 @@ namespace SceneEditor
                  cy = 0;
              }
         }
+
         private void PanelOpenGLPaint(object sender, PaintEventArgs e)
         {
             if ((cx != 0) || (cy != 0))
@@ -762,6 +767,11 @@ namespace SceneEditor
         }
 
         private void panelOpenGL1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void toolStripViewport_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
         {
 
         }
