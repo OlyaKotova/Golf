@@ -21,7 +21,7 @@ namespace SceneEditor
 {
     /// <summary> Главное окно приложения. </summary>
 
-    public partial class MainForm : Form
+    public partial class MainForm2 : Form
     {
         #region Private Fields
 
@@ -30,11 +30,11 @@ namespace SceneEditor
 
         /// <summary> Управляет камерой при помощи клавиатуры. </summary>
         private Keyboard keyboard = new Keyboard();
-        private float xsh = 30, ysh = -30, zsh = 1f,  // начальное положение мяча
-                        xc = 30, yc = -35, zc = 4,      // начальное положение камеры
+        private float xsh = 5, ysh = 0, zsh = 1f,  // начальное положение мяча
+                        xc = 5, yc = -5, zc = 4,      // начальное положение камеры
                         rd = 2.5f, ty = 1f, tx = 1f,
-                        rad = 1.5839f, cx, cy,
-                        size = 50, t;
+                        rad = 1.5839f, cx, cy, cz,
+                        size = 50, s, vz, vy, az, t;
         float yu, yu1;
         int nomer,xod;
         float ysh1, xsh1, xc1, yc1;
@@ -64,7 +64,7 @@ namespace SceneEditor
         #region Constructor
 
         /// <summary> Создает главное окно приложения. </summary>
-        public MainForm()
+        public MainForm2()
         {
             InitializeComponent();
         }
@@ -74,6 +74,7 @@ namespace SceneEditor
         #region Private Methods
 
         #region Настройка визуализации
+
 
         private bool LoadGLTextures()
         {
@@ -113,6 +114,7 @@ namespace SceneEditor
                         textureImage[i].UnlockBits(bitmapData);                     // Unlock The Pixel Data From Memory
                         textureImage[i].Dispose();                                  // Dispose The Bitmap
                     }
+
                 }
             }
             return status;                                                      // Return The Status
@@ -130,6 +132,7 @@ namespace SceneEditor
             Gl.glPointSize(8.0f);
             LoadGLTextures();
         }
+
 
         private void SetupLights()
         {
@@ -262,15 +265,14 @@ namespace SceneEditor
             Gl.glColor3f(255, 255, 255);
 
             // бортики   
-
             Gl.glTexCoord2f(1, 0);
-            Gl.glVertex3f(35, -35, -0);
+            Gl.glVertex3f(10, -25, 0);
             Gl.glTexCoord2f(1, 1);
-            Gl.glVertex3f(35, -35, size / 20);
+            Gl.glVertex3f(10, -25, size / 20);
             Gl.glTexCoord2f(0, 1);
-            Gl.glVertex3f(25, -35, size / 20);
+            Gl.glVertex3f(35, -25, size / 20);
             Gl.glTexCoord2f(0, 0);
-            Gl.glVertex3f(25, -35, -0);
+            Gl.glVertex3f(35, -25, 0);
             Gl.glEnd();
             Gl.glBindTexture(Gl.GL_TEXTURE_2D, 0);
             Gl.glPopMatrix();
@@ -286,9 +288,9 @@ namespace SceneEditor
             Gl.glTexCoord2f(1, 1);
             Gl.glVertex3f(35, -35, size / 20);
             Gl.glTexCoord2f(0, 1);
-            Gl.glVertex3f(35, 25, size / 20);
+            Gl.glVertex3f(35, -25, size / 20);
             Gl.glTexCoord2f(0, 0);
-            Gl.glVertex3f(35, 25, 0);
+            Gl.glVertex3f(35, -25, 0);
             Gl.glEnd();
             Gl.glBindTexture(Gl.GL_TEXTURE_2D, 0);
             Gl.glPopMatrix();
@@ -300,13 +302,13 @@ namespace SceneEditor
             Gl.glColor3f(255, 255, 255);
 
             Gl.glTexCoord2f(1, 0);
-            Gl.glVertex3f(25, -35, 0);
+            Gl.glVertex3f(35, -35, 0);
             Gl.glTexCoord2f(1, 1);
-            Gl.glVertex3f(25, -35, size / 20);
+            Gl.glVertex3f(35, -35, size / 20);
             Gl.glTexCoord2f(0, 1);
-            Gl.glVertex3f(25, 10, size / 20);
+            Gl.glVertex3f(0, -35, size / 20);
             Gl.glTexCoord2f(0, 0);
-            Gl.glVertex3f(25, 10, 0);
+            Gl.glVertex3f(0, -35, 0);
             Gl.glEnd();
             Gl.glBindTexture(Gl.GL_TEXTURE_2D, 0);
             Gl.glPopMatrix();
@@ -318,13 +320,31 @@ namespace SceneEditor
             Gl.glColor3f(255, 255, 255);
 
             Gl.glTexCoord2f(1, 0);
-            Gl.glVertex3f(25, 10, 0);
+            Gl.glVertex3f(0, -35, 0);
             Gl.glTexCoord2f(1, 1);
-            Gl.glVertex3f(25, 10, size / 20);
+            Gl.glVertex3f(0, -35, size / 20);
             Gl.glTexCoord2f(0, 1);
-            Gl.glVertex3f(-15, 10, size / 20);
+            Gl.glVertex3f(0, -10, size / 20);
             Gl.glTexCoord2f(0, 0);
-            Gl.glVertex3f(-15, 10, 0);
+            Gl.glVertex3f(0, -10, 0);
+            Gl.glEnd();
+            Gl.glBindTexture(Gl.GL_TEXTURE_2D, 0);
+            Gl.glPopMatrix();
+
+            Gl.glPushMatrix();
+            Gl.glTranslatef(0.0f, 0.0f, 0.0f);
+            Gl.glBindTexture(Gl.GL_TEXTURE_2D, texture[3]);
+            Gl.glBegin(Gl.GL_QUADS);
+            Gl.glColor3f(255, 255, 255);
+
+            Gl.glTexCoord2f(1, 0);
+            Gl.glVertex3f(10, -10, 0);
+            Gl.glTexCoord2f(1, 1);
+            Gl.glVertex3f(10, -10, size / 20);
+            Gl.glTexCoord2f(0, 1);
+            Gl.glVertex3f(10, -25, size / 20);
+            Gl.glTexCoord2f(0, 0);
+            Gl.glVertex3f(10, -25, 0);
             Gl.glEnd();
             Gl.glBindTexture(Gl.GL_TEXTURE_2D, 0);
             Gl.glPopMatrix();
@@ -337,13 +357,13 @@ namespace SceneEditor
             Gl.glColor3f(255, 255, 255);
 
             Gl.glTexCoord2f(1, 0);
-            Gl.glVertex3f(35, 25, 0);
+            Gl.glVertex3f(10, -10, 0);
             Gl.glTexCoord2f(1, 1);
-            Gl.glVertex3f(35, 25, size / 20);
+            Gl.glVertex3f(10, -10, size / 20);
             Gl.glTexCoord2f(0, 1);
-            Gl.glVertex3f(-25, 25, size / 20);
+            Gl.glVertex3f(30, -10, size / 20);
             Gl.glTexCoord2f(0, 0);
-            Gl.glVertex3f(-25, 25, 0);
+            Gl.glVertex3f(30, -10, 0);
             Gl.glEnd();
             Gl.glBindTexture(Gl.GL_TEXTURE_2D, 0);
             Gl.glPopMatrix();
@@ -356,13 +376,13 @@ namespace SceneEditor
             Gl.glColor3f(255, 255, 255);
 
             Gl.glTexCoord2f(1, 0);
-            Gl.glVertex3f(-15, 10, 0);
+            Gl.glVertex3f(30, -10, 0);
             Gl.glTexCoord2f(1, 1);
-            Gl.glVertex3f(-15, 10, size / 20);
+            Gl.glVertex3f(30, -10, size / 20);
             Gl.glTexCoord2f(0, 1);
-            Gl.glVertex3f(-15, -35, size / 20);
+            Gl.glVertex3f(30, 20, size / 20);
             Gl.glTexCoord2f(0, 0);
-            Gl.glVertex3f(-15, -35, 0);
+            Gl.glVertex3f(30, 20, 0);
             Gl.glEnd();
             Gl.glBindTexture(Gl.GL_TEXTURE_2D, 0);
             Gl.glPopMatrix();
@@ -374,13 +394,13 @@ namespace SceneEditor
             Gl.glColor3f(255, 255, 255);
 
             Gl.glTexCoord2f(1, 0);
-            Gl.glVertex3f(-25, 25, 0);
+            Gl.glVertex3f(30, 20, 0);
             Gl.glTexCoord2f(1, 1);
-            Gl.glVertex3f(-25, 25, size / 20);
+            Gl.glVertex3f(30, 20, size / 20);
             Gl.glTexCoord2f(0, 1);
-            Gl.glVertex3f(-25, -35, size / 20);
+            Gl.glVertex3f(20, 20, size / 20);
             Gl.glTexCoord2f(0, 0);
-            Gl.glVertex3f(-25, -35, 0);
+            Gl.glVertex3f(20, 20, 0);
             Gl.glEnd();
             Gl.glBindTexture(Gl.GL_TEXTURE_2D, 0);
             Gl.glPopMatrix();
@@ -392,20 +412,289 @@ namespace SceneEditor
             Gl.glColor3f(255, 255, 255);
 
             Gl.glTexCoord2f(1, 0);
-            Gl.glVertex3f(-15, -35, 0);
+            Gl.glVertex3f(20, 20, 0);
             Gl.glTexCoord2f(1, 1);
-            Gl.glVertex3f(-15, -35, size / 20);
+            Gl.glVertex3f(20, 20, size / 20);
             Gl.glTexCoord2f(0, 1);
-            Gl.glVertex3f(-25, -35, size / 20);
+            Gl.glVertex3f(20, 0, size / 20);
             Gl.glTexCoord2f(0, 0);
-            Gl.glVertex3f(-25, -35, 0);
+            Gl.glVertex3f(20, 0, 0);
+            Gl.glEnd();
+            Gl.glBindTexture(Gl.GL_TEXTURE_2D, 0);
+            Gl.glPopMatrix();
+
+            Gl.glPushMatrix();
+            Gl.glTranslatef(0.0f, 0.0f, 0.0f);
+            Gl.glBindTexture(Gl.GL_TEXTURE_2D, texture[3]);
+            Gl.glBegin(Gl.GL_QUADS);
+            Gl.glColor3f(255, 255, 255);
+
+            Gl.glTexCoord2f(1, 0);
+            Gl.glVertex3f(10, 0, 0);
+            Gl.glTexCoord2f(1, 1);
+            Gl.glVertex3f(10, 0, size / 20);
+            Gl.glTexCoord2f(0, 1);
+            Gl.glVertex3f(20, 0, size / 20);
+            Gl.glTexCoord2f(0, 0);
+            Gl.glVertex3f(20, 0, 0);
+            Gl.glEnd();
+            Gl.glBindTexture(Gl.GL_TEXTURE_2D, 0);
+            Gl.glPopMatrix();
+
+            Gl.glPushMatrix();
+            Gl.glTranslatef(0.0f, 0.0f, 0.0f);
+            Gl.glBindTexture(Gl.GL_TEXTURE_2D, texture[3]);
+            Gl.glBegin(Gl.GL_QUADS);
+            Gl.glColor3f(255, 255, 255);
+
+            Gl.glTexCoord2f(1, 0);
+            Gl.glVertex3f(10, 0, 0);
+            Gl.glTexCoord2f(1, 1);
+            Gl.glVertex3f(10, 0, size / 20);
+            Gl.glTexCoord2f(0, 1);
+            Gl.glVertex3f(10, 25, size / 20);
+            Gl.glTexCoord2f(0, 0);
+            Gl.glVertex3f(10, 25, 0);
+            Gl.glEnd();
+            Gl.glBindTexture(Gl.GL_TEXTURE_2D, 0);
+            Gl.glPopMatrix();
+
+            Gl.glPushMatrix();
+            Gl.glTranslatef(0.0f, 0.0f, 0.0f);
+            Gl.glBindTexture(Gl.GL_TEXTURE_2D, texture[3]);
+            Gl.glBegin(Gl.GL_QUADS);
+            Gl.glColor3f(255, 255, 255);
+
+            Gl.glTexCoord2f(1, 0);
+            Gl.glVertex3f(10, 25, 0);
+            Gl.glTexCoord2f(1, 1);
+            Gl.glVertex3f(10, 25, size / 20);
+            Gl.glTexCoord2f(0, 1);
+            Gl.glVertex3f(30, 25, size / 20);
+            Gl.glTexCoord2f(0, 0);
+            Gl.glVertex3f(30, 25, 0);
+            Gl.glEnd();
+            Gl.glBindTexture(Gl.GL_TEXTURE_2D, 0);
+            Gl.glPopMatrix();
+
+            Gl.glPushMatrix();
+            Gl.glTranslatef(0.0f, 0.0f, 0.0f);
+            Gl.glBindTexture(Gl.GL_TEXTURE_2D, texture[3]);
+            Gl.glBegin(Gl.GL_QUADS);
+            Gl.glColor3f(255, 255, 255);
+
+            Gl.glTexCoord2f(1, 0);
+            Gl.glVertex3f(30, 25, 0);
+            Gl.glTexCoord2f(1, 1);
+            Gl.glVertex3f(30, 25, size / 20);
+            Gl.glTexCoord2f(0, 1);
+            Gl.glVertex3f(30, 35, size / 20);
+            Gl.glTexCoord2f(0, 0);
+            Gl.glVertex3f(30, 35, 0);
+            Gl.glEnd();
+            Gl.glBindTexture(Gl.GL_TEXTURE_2D, 0);
+            Gl.glPopMatrix();
+
+            Gl.glPushMatrix();
+            Gl.glTranslatef(0.0f, 0.0f, 0.0f);
+            Gl.glBindTexture(Gl.GL_TEXTURE_2D, texture[3]);
+            Gl.glBegin(Gl.GL_QUADS);
+            Gl.glColor3f(255, 255, 255);
+
+            Gl.glTexCoord2f(1, 0);
+            Gl.glVertex3f(30, 35, 0);
+            Gl.glTexCoord2f(1, 1);
+            Gl.glVertex3f(30, 35, size / 20);
+            Gl.glTexCoord2f(0, 1);
+            Gl.glVertex3f(-35, 35, size / 20);
+            Gl.glTexCoord2f(0, 0);
+            Gl.glVertex3f(-35, 35, 0);
+            Gl.glEnd();
+            Gl.glBindTexture(Gl.GL_TEXTURE_2D, 0);
+            Gl.glPopMatrix();
+
+            Gl.glPushMatrix();
+            Gl.glTranslatef(0.0f, 0.0f, 0.0f);
+            Gl.glBindTexture(Gl.GL_TEXTURE_2D, texture[3]);
+            Gl.glBegin(Gl.GL_QUADS);
+            Gl.glColor3f(255, 255, 255);
+
+            Gl.glTexCoord2f(1, 0);
+            Gl.glVertex3f(-35, 35, 0);
+            Gl.glTexCoord2f(1, 1);
+            Gl.glVertex3f(-35, 35, size / 20);
+            Gl.glTexCoord2f(0, 1);
+            Gl.glVertex3f(-35, 15, size / 20);
+            Gl.glTexCoord2f(0, 0);
+            Gl.glVertex3f(-35, 15, 0);
+            Gl.glEnd();
+            Gl.glBindTexture(Gl.GL_TEXTURE_2D, 0);
+            Gl.glPopMatrix();
+
+            Gl.glPushMatrix();
+            Gl.glTranslatef(0.0f, 0.0f, 0.0f);
+            Gl.glBindTexture(Gl.GL_TEXTURE_2D, texture[3]);
+            Gl.glBegin(Gl.GL_QUADS);
+            Gl.glColor3f(255, 255, 255);
+
+            Gl.glTexCoord2f(1, 0);
+            Gl.glVertex3f(-35, 15, 0);
+            Gl.glTexCoord2f(1, 1);
+            Gl.glVertex3f(-35, 15, size / 20);
+            Gl.glTexCoord2f(0, 1);
+            Gl.glVertex3f(-20, 15, size / 20);
+            Gl.glTexCoord2f(0, 0);
+            Gl.glVertex3f(-20, 15, 0);
+            Gl.glEnd();
+            Gl.glBindTexture(Gl.GL_TEXTURE_2D, 0);
+            Gl.glPopMatrix();
+            Gl.glPushMatrix();
+            Gl.glTranslatef(0.0f, 0.0f, 0.0f);
+            Gl.glBindTexture(Gl.GL_TEXTURE_2D, texture[3]);
+            Gl.glBegin(Gl.GL_QUADS);
+            Gl.glColor3f(255, 255, 255);
+
+            Gl.glTexCoord2f(1, 0);
+            Gl.glVertex3f(-20, 15, 0);
+            Gl.glTexCoord2f(1, 1);
+            Gl.glVertex3f(-20, 15, size / 20);
+            Gl.glTexCoord2f(0, 1);
+            Gl.glVertex3f(-20, 25, size / 20);
+            Gl.glTexCoord2f(0, 0);
+            Gl.glVertex3f(-20, 25, 0);
+            Gl.glEnd();
+            Gl.glBindTexture(Gl.GL_TEXTURE_2D, 0);
+            Gl.glPopMatrix();
+
+            Gl.glPushMatrix();
+            Gl.glTranslatef(0.0f, 0.0f, 0.0f);
+            Gl.glBindTexture(Gl.GL_TEXTURE_2D, texture[3]);
+            Gl.glBegin(Gl.GL_QUADS);
+            Gl.glColor3f(255, 255, 255);
+
+            Gl.glTexCoord2f(1, 0);
+            Gl.glVertex3f(-20, 25, 0);
+            Gl.glTexCoord2f(1, 1);
+            Gl.glVertex3f(-20, 25, size / 20);
+            Gl.glTexCoord2f(0, 1);
+            Gl.glVertex3f(0, 25, size / 20);
+            Gl.glTexCoord2f(0, 0);
+            Gl.glVertex3f(0, 25, 0);
+            Gl.glEnd();
+            Gl.glBindTexture(Gl.GL_TEXTURE_2D, 0);
+            Gl.glPopMatrix();
+
+            Gl.glPushMatrix();
+            Gl.glTranslatef(0.0f, 0.0f, 0.0f);
+            Gl.glBindTexture(Gl.GL_TEXTURE_2D, texture[3]);
+            Gl.glBegin(Gl.GL_QUADS);
+            Gl.glColor3f(255, 255, 255);
+
+            Gl.glTexCoord2f(1, 0);
+            Gl.glVertex3f(0, 25, 0);
+            Gl.glTexCoord2f(1, 1);
+            Gl.glVertex3f(0, 25, size / 20);
+            Gl.glTexCoord2f(0, 1);
+            Gl.glVertex3f(0, 0, size / 20);
+            Gl.glTexCoord2f(0, 0);
+            Gl.glVertex3f(0, 0, 0);
+            Gl.glEnd();
+            Gl.glBindTexture(Gl.GL_TEXTURE_2D, 0);
+            Gl.glPopMatrix();
+
+            Gl.glPushMatrix();
+            Gl.glTranslatef(0.0f, 0.0f, 0.0f);
+            Gl.glBindTexture(Gl.GL_TEXTURE_2D, texture[3]);
+            Gl.glBegin(Gl.GL_QUADS);
+            Gl.glColor3f(255, 255, 255);
+
+            Gl.glTexCoord2f(1, 0);
+            Gl.glVertex3f(-20, 0, 0);
+            Gl.glTexCoord2f(1, 1);
+            Gl.glVertex3f(-20, 0, size / 20);
+            Gl.glTexCoord2f(0, 1);
+            Gl.glVertex3f(0, 0, size / 20);
+            Gl.glTexCoord2f(0, 0);
+            Gl.glVertex3f(0, 0, 0);
+            Gl.glEnd();
+            Gl.glBindTexture(Gl.GL_TEXTURE_2D, 0);
+            Gl.glPopMatrix();
+
+            Gl.glPushMatrix();
+            Gl.glTranslatef(0.0f, 0.0f, 0.0f);
+            Gl.glBindTexture(Gl.GL_TEXTURE_2D, texture[3]);
+            Gl.glBegin(Gl.GL_QUADS);
+            Gl.glColor3f(255, 255, 255);
+
+            Gl.glTexCoord2f(1, 0);
+            Gl.glVertex3f(-20, 0, 0);
+            Gl.glTexCoord2f(1, 1);
+            Gl.glVertex3f(-20, 0, size / 20);
+            Gl.glTexCoord2f(0, 1);
+            Gl.glVertex3f(-20, -35, size / 20);
+            Gl.glTexCoord2f(0, 0);
+            Gl.glVertex3f(-20, -35, 0);
+            Gl.glEnd();
+            Gl.glBindTexture(Gl.GL_TEXTURE_2D, 0);
+            Gl.glPopMatrix();
+
+            Gl.glPushMatrix();
+            Gl.glTranslatef(0.0f, 0.0f, 0.0f);
+            Gl.glBindTexture(Gl.GL_TEXTURE_2D, texture[3]);
+            Gl.glBegin(Gl.GL_QUADS);
+            Gl.glColor3f(255, 255, 255);
+
+            Gl.glTexCoord2f(1, 0);
+            Gl.glVertex3f(-20, -35, 0);
+            Gl.glTexCoord2f(1, 1);
+            Gl.glVertex3f(-20, -35, size / 20);
+            Gl.glTexCoord2f(0, 1);
+            Gl.glVertex3f(-10, -35, size / 20);
+            Gl.glTexCoord2f(0, 0);
+            Gl.glVertex3f(-10, -35, 0);
+            Gl.glEnd();
+            Gl.glBindTexture(Gl.GL_TEXTURE_2D, 0);
+            Gl.glPopMatrix();
+
+            Gl.glPushMatrix();
+            Gl.glTranslatef(0.0f, 0.0f, 0.0f);
+            Gl.glBindTexture(Gl.GL_TEXTURE_2D, texture[3]);
+            Gl.glBegin(Gl.GL_QUADS);
+            Gl.glColor3f(255, 255, 255);
+
+            Gl.glTexCoord2f(1, 0);
+            Gl.glVertex3f(-10, -35, 0);
+            Gl.glTexCoord2f(1, 1);
+            Gl.glVertex3f(-10, -35, size / 20);
+            Gl.glTexCoord2f(0, 1);
+            Gl.glVertex3f(-10, -10, size / 20);
+            Gl.glTexCoord2f(0, 0);
+            Gl.glVertex3f(-10, -10, 0);
+            Gl.glEnd();
+            Gl.glBindTexture(Gl.GL_TEXTURE_2D, 0);
+            Gl.glPopMatrix();
+
+            Gl.glPushMatrix();
+            Gl.glTranslatef(0.0f, 0.0f, 0.0f);
+            Gl.glBindTexture(Gl.GL_TEXTURE_2D, texture[3]);
+            Gl.glBegin(Gl.GL_QUADS);
+            Gl.glColor3f(255, 255, 255);
+
+            Gl.glTexCoord2f(1, 0);
+            Gl.glVertex3f(-10, -10, 0);
+            Gl.glTexCoord2f(1, 1);
+            Gl.glVertex3f(-10, -10, size / 20);
+            Gl.glTexCoord2f(0, 1);
+            Gl.glVertex3f(0, -10, size / 20);
+            Gl.glTexCoord2f(0, 0);
+            Gl.glVertex3f(0, -10, 0);
             Gl.glEnd();
             Gl.glBindTexture(Gl.GL_TEXTURE_2D, 0);
             Gl.glPopMatrix();
 
             Glu.GLUquadric quad = Glu.gluNewQuadric();
             Gl.glPushMatrix();
-            Gl.glTranslatef(-20f, -30f, 0.1f);
+            Gl.glTranslatef(-30f, 22f, 0.1f);
             Gl.glRotated(180, 1, 0, 0);
             Gl.glColor3f(0f, 0f, 0f);
             Glu.gluQuadricTexture(quad, Gl.GL_TRUE);
@@ -418,6 +707,7 @@ namespace SceneEditor
 
         private void DrawALL()
         {
+
             Glu.GLUquadric quad2 = Glu.gluNewQuadric();
             Gl.glPushMatrix();
             Gl.glTranslatef(xsh, ysh, zsh);
@@ -478,8 +768,8 @@ namespace SceneEditor
             ysh = ysh + ty * (cy * 0.25f);
             xc = xc + tx * (cx * 0.25f);
             yc = yc + ty * (cy * 0.25f);
-            cx = cx * 0.98f;
-            cy = cy * 0.98f;
+            cx = cx * 0.96f;
+            cy = cy * 0.96f;
             if ((cx < 0.01) && (cx > -0.01))
             {
                 cx = 0;
@@ -520,54 +810,126 @@ namespace SceneEditor
                     flag2 = false;
                 }
                 button1.Enabled = true;
+            }
+           
+            if ((xsh < 40) && (xsh > 34) && (ysh < -25) && (ysh > -35)) //1
+            {
+                tx = tx * -1f;
+            }
+            if ((xsh < 35) && (xsh > 0) && (ysh < -34) && (ysh > -40))
+            {
+                ty = ty * -1f;
+            }
+            if ((xsh < 35) && (xsh > 10) && (ysh < -15) && (ysh > -26))
+            {
+                ty = ty * -1f;
+            }
+            if ((xsh < 1) && (xsh > -5) && (ysh < -10) && (ysh > -35))
+            {
+                tx = tx * -1f;
+            }
+            if ((xsh < 25) && (xsh > 9) && (ysh < -10) && (ysh > -25)) //5
+            {
+                tx = tx * -1f;
+            }
+            if ((xsh < 30) && (xsh > 10) && (ysh < -9) && (ysh > -15))//6
+            {
+                ty = ty * -1f;
+            }
+            if ((xsh < 40) && (xsh >30) && (ysh < 20) && (ysh > -10))//7
+            {
+                tx = tx * -1f;
+            }
+            if ((xsh < 30) && (xsh > 20) && (ysh < 21) && (ysh > 19))//8
+            {
+                ty = ty * -1f;
+            }
+            if ((xsh < 21) && (xsh > 20) && (ysh < 20) && (ysh > 0))//9
+            {
+                tx = tx * -1f;
+            }
+            if ((xsh < 20) && (xsh > 10) && (ysh < 2) && (ysh > 0))//10
+            {
+                ty = ty * -1f;
+            }
+            if ((xsh < 12) && (xsh > 9) && (ysh < 25) && (ysh > 0))//11
+            {
+                tx = tx * -1f;
+            }
+            if ((xsh < 30) && (xsh > 10) && (ysh < 26) && (ysh > 24))//12
+            {
+                ty = ty * -1f;
+            }
 
-            }
-            if ((xsh < 26) && (xsh > 20) && (ysh < 10) && (ysh > -35))
+            if ((xsh < 35) && (xsh > 29) && (ysh < 35) && (ysh > 25))//13
             {
                 tx = tx * -1f;
             }
-            if ((xsh > 34) && (ysh < 24) && (ysh > -35))
+
+            if ((xsh < 35) && (xsh > -35) && (ysh < 40) && (ysh > 34))//14
+
+            {
+                ty = ty * -1f;
+            }
+            if ((xsh < -34) && (xsh > -40) && (ysh < 35) && (ysh > 15))//15
             {
                 tx = tx * -1f;
             }
-            if ((xsh > -16) && (xsh < -10) && (ysh < 10) && (ysh > -35))
+            if ((xsh < -20) && (xsh > -35) && (ysh < 15) && (ysh > 10))//16
+            {
+                ty = ty * -1f;
+            }
+
+            if ((xsh < -10) && (xsh > -21) && (ysh < 25) && (ysh > 15))//17
             {
                 tx = tx * -1f;
             }
-            if ((xsh < -24) && (ysh < 24) && (ysh > -35))
+
+            if ((xsh  >-20) && (xsh < 0) && (ysh < 26) && (ysh > 20))//18
+            {
+                ty = ty * -1f;
+            }
+
+            if ((xsh < 1) && (xsh > -5) && (ysh < 25) && (ysh > 0))//19
             {
                 tx = tx * -1f;
             }
-            if ((ysh < -34) && (xsh < 35) && (xsh > 25))
+            if ((xsh > -20) && (xsh < 0) && (ysh < 4) && (ysh > -1))//20
             {
                 ty = ty * -1f;
             }
-            if ((ysh < -34) && (xsh < -15) && (xsh > -25))
+            if ((xsh < -19) && (xsh > -25) && (ysh < 0) && (ysh > -35))//21
+            {
+                tx = tx * -1f;
+            }
+            if ((xsh > -20) && (xsh < -10) && (ysh < -34) && (ysh > -40))//22
             {
                 ty = ty * -1f;
             }
-            if ((ysh > 24) && (xsh > -25) && (xsh < 35))
+            if ((xsh < -5) && (xsh > -9) && (ysh < -10) && (ysh > -35))//23
+            {
+                tx = tx * -1f;
+            }
+            if ((xsh > -10) && (xsh < 0) && (ysh < -9) && (ysh > -15))//24
             {
                 ty = ty * -1f;
             }
-            if ((ysh < 11) && (ysh > 10) && (xsh < 25) && (xsh > -15))
-            {
-                ty = ty * -1f;
-            }
-            if ((xsh < -19) && (xsh > -21) && (ysh > -31) && (ysh < -29))
+
+            //лунки   
+            if ((xsh < -28) && (xsh > -32) && (ysh > 20) && (ysh < 24))
             {
 
-                xsh = 30;
-                ysh = -30f;
-                xc = 30;
-                yc = -35;
+                xsh = -30;
+                ysh = 22;
+                xc = -30;
+                yc = 18;
                 rad = 1.5839f;
                 cx = 0;
                 cy = 0;
-                if (flag == 0) { label3.Text = "ПОБЕДИЛ ИГРОК 2"; }
-                else { label3.Text = "ПОБЕДИЛ ИГРОК 1"; };
+                if (flag == 0) { label6.Text = "ПОБЕДИЛ ИГРОК 2"; }
+                else { label6.Text = "ПОБЕДИЛ ИГРОК 1"; };
                 label7.Text = "Количество общих ударов:" + Convert.ToString(Convert.ToInt32(yu));
-                yu = 0;
+             
             }
             DrawScene();
             if (pol)
@@ -614,7 +976,7 @@ namespace SceneEditor
             yu++;
             flag2=true;
             flag = yu % 2;
-            label3.Text = "";
+            label6.Text = "";
             label7.Text = "";
             tx = 1f;
             ty = 1f;
@@ -643,19 +1005,24 @@ namespace SceneEditor
                 xc = xsh;
                 yc = ysh + 5f;
                 rad = -1.5839f;
-            }          
+            }
+           
+
         }
 
         private void label1_Click(object sender, EventArgs e)
         {
+
         }
 
         private void label2_Click(object sender, EventArgs e)
         {
+
         }
 
-        private void label3_Click(object sender, EventArgs e)
+        private void label6_Click(object sender, EventArgs e)
         {
+
         }
 
         private void button2_Click(object sender, EventArgs e)
@@ -665,6 +1032,8 @@ namespace SceneEditor
 
         private void button3_Click(object sender, EventArgs e)
         {
+            //button3.Enabled = false;
+            //b3 = true;
         }
 
         private void button4_Click(object sender, EventArgs e)
@@ -799,14 +1168,17 @@ namespace SceneEditor
 
         private void panelOpenGL1_Load(object sender, EventArgs e)
         {
+
         }
 
         private void toolStripViewport_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
         {
+
         }
 
         private void label1_Click_1(object sender, EventArgs e)
         {
+
         }
 
         public void askInfoFromSocket(int port)
@@ -859,6 +1231,13 @@ namespace SceneEditor
             sender.Close();
         }
 
+
+
+
+
+
+
+
         public void SendMessageFromSocket(int port)
         {
 
@@ -892,6 +1271,8 @@ namespace SceneEditor
             int bytesSent = sender.Send(msg);
 
             // Получаем ответ от сервера
+
+
             int bytesRec = sender.Receive(bytes);
 
             fkob = Encoding.UTF8.GetString(bytes, 0, bytesRec);
@@ -907,7 +1288,10 @@ namespace SceneEditor
             cx1 = Convert.ToInt32(array[6]);
             cy1 = Convert.ToInt32(array[7]);
             rad1 = Convert.ToInt32(array[8]);
-            xod = Convert.ToInt32(array[9]);            
+            xod = Convert.ToInt32(array[9]);
+            // Используем рекурсию для неоднократного вызова SendMessageFromSocket()
+            // if (message.IndexOf("<TheEnd>") == -1)
+            // SendMessageFromSocket(port);
 
             // Освобождаем сокет
             sender.Shutdown(SocketShutdown.Both);
@@ -949,6 +1333,10 @@ namespace SceneEditor
             
 
         DrawScene();
+
+          //  MoveSphere();
+
+
         }
     }
 }

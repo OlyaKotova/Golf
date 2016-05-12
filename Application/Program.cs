@@ -1,6 +1,10 @@
 ﻿using System;
 using System.Windows.Forms;
 
+using System.Text;
+using System.Net;
+using System.Net.Sockets;
+
 namespace SceneEditor
 {
     static class Program
@@ -14,6 +18,11 @@ namespace SceneEditor
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new MainForm());
+            Application.Run(new MainForm1());
+            Application.Run(new MainForm2());
         }
+
+        
     }
 }
+

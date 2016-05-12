@@ -16,3 +16,51 @@ C:\Users\user\Documents\GitHub\Golf\obj\Debug\GL_Demo.Properties.Resources.resou
 C:\Users\user\Documents\GitHub\Golf\obj\Debug\Golf.csproj.GenerateResource.Cache
 C:\Users\user\Documents\GitHub\Golf\obj\Debug\GL Demo.exe
 C:\Users\user\Documents\GitHub\Golf\obj\Debug\GL Demo.pdb
+C:\Users\user\Desktop\Golf\bin\Debug\GL Demo.exe.config
+C:\Users\user\Desktop\Golf\obj\Debug\GL Demo.exe
+C:\Users\user\Desktop\Golf\obj\Debug\GL Demo.pdb
+C:\Users\user\Desktop\Golf\bin\Debug\GL Demo.exe
+C:\Users\user\Desktop\Golf\bin\Debug\GL Demo.pdb
+C:\Users\user\Desktop\Golf\bin\Debug\Auxiliary.Graphics.pdb
+C:\Users\user\Desktop\Golf\bin\Debug\Auxiliary.Math.pdb
+C:\Users\user\Desktop\Golf\bin\Debug\Auxiliary.Primitive.pdb
+C:\Users\user\Desktop\Golf\bin\Debug\Auxiliary.Raytracing.pdb
+C:\Users\user\Desktop\Golf\bin\Debug\OpenTK.pdb
+C:\Users\user\Desktop\Golf\bin\Debug\OpenTK.xml
+C:\Users\user\Desktop\Golf\bin\Debug\OpenTK.GLControl.xml
+C:\Users\user\Desktop\Golf\bin\Debug\Tao.OpenGl.xml
+C:\Users\user\Desktop\Golf\bin\Debug\Tao.Platform.Windows.xml
+C:\Users\user\Desktop\Golf\obj\Debug\Golf.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Golf\obj\Debug\SceneEditor.MainForm.resources
+C:\Users\user\Desktop\Golf\obj\Debug\GL_Demo.Properties.Resources.resources
+C:\Users\user\Desktop\Golf\obj\Debug\Golf.csproj.GenerateResource.Cache
+C:\Users\Irina\Desktop\Golf\bin\Debug\GL Demo.exe.config
+C:\Users\Irina\Desktop\Golf\bin\Debug\GL Demo.exe
+C:\Users\Irina\Desktop\Golf\bin\Debug\GL Demo.pdb
+C:\Users\Irina\Desktop\Golf\obj\Debug\SceneEditor.MainForm.resources
+C:\Users\Irina\Desktop\Golf\obj\Debug\GL_Demo.Properties.Resources.resources
+C:\Users\Irina\Desktop\Golf\obj\Debug\Golf.csproj.GenerateResource.Cache
+C:\Users\Irina\Desktop\Golf\obj\Debug\GL Demo.exe
+C:\Users\Irina\Desktop\Golf\obj\Debug\GL Demo.pdb
+C:\Users\Irina\Desktop\Golf\obj\Debug\Golf.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\ВАУ\Golf\bin\Debug\GL Demo.exe.config
+C:\Users\user\Desktop\ВАУ\Golf\obj\Debug\GL Demo.exe
+C:\Users\user\Desktop\ВАУ\Golf\obj\Debug\GL Demo.pdb
+C:\Users\user\Desktop\ВАУ\Golf\bin\Debug\GL Demo.exe
+C:\Users\user\Desktop\ВАУ\Golf\bin\Debug\GL Demo.pdb
+C:\Users\user\Desktop\ВАУ\Golf\obj\Debug\Golf.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\ВАУ\Golf\obj\Debug\SceneEditor.MainForm.resources
+C:\Users\user\Desktop\ВАУ\Golf\obj\Debug\GL_Demo.Properties.Resources.resources
+C:\Users\user\Desktop\ВАУ\Golf\obj\Debug\Golf.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\ВАУ\Golf\obj\Debug\SceneEditor.MainForm1.resources
+C:\Users\user\Desktop\Проект\Golf\bin\Debug\GL Demo.exe.config
+C:\Users\user\Desktop\Проект\Golf\obj\Debug\GL Demo.exe
+C:\Users\user\Desktop\Проект\Golf\obj\Debug\GL Demo.pdb
+C:\Users\user\Desktop\Проект\Golf\bin\Debug\GL Demo.exe
+C:\Users\user\Desktop\Проект\Golf\bin\Debug\GL Demo.pdb
+C:\Users\user\Desktop\Проект\Golf\obj\Debug\Golf.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\Проект\Golf\obj\Debug\SceneEditor.MainForm.resources
+C:\Users\user\Desktop\Проект\Golf\obj\Debug\SceneEditor.MainForm1.resources
+C:\Users\user\Desktop\Проект\Golf\obj\Debug\GL_Demo.Properties.Resources.resources
+C:\Users\user\Desktop\Проект\Golf\obj\Debug\Golf.csproj.GenerateResource.Cache
+C:\Users\user\Desktop\Проект\Golf\obj\Debug\SceneEditor.MainForm2.resources
